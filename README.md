@@ -8,12 +8,12 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
-- [Jeffrey Paul: Discord Is Not An Acceptable Choice For Free Software Projects](https://thechels.uk/jeffrey-paul-discord-is-not-an-acceptable-choice-for-free-software-projects) - 2026-02-10
-- [Backseat Software](https://thechels.uk/backseat-software) - 2026-01-30
-- [Politics and the English Language](https://thechels.uk/politics-and-the-english-language) - 2026-01-30
-- [Quoting Jim Nielsen on Apple](https://thechels.uk/quoting-jim-nielsen-on-apple) - 2026-01-30
-- [The Only Moat Left Is Knowing Things](https://thechels.uk/the-only-moat-left-is-knowing-things) - 2026-01-30
-- [The UK paid £4.1 million for a bookmarks site](https://thechels.uk/the-uk-paid-4.1-million-for-a-bookmarks-site) - 2026-01-30
-- [Monthly Mixtape - Jan 2026](https://thechels.uk/monthly-mixtape-jan-2026) - 2026-01-23
-- [Snyk is shutting down the securityheaders.com API](https://thechels.uk/snyk-is-shutting-down-the-securityheaders.com-api) - 2026-01-23
+- [Version 1.7](https://thechels.uk/version-1-7) - 2026-02-21
+- [Discord Is Not An Acceptable Choice For Free Software Projects](https://sneak.berlin/20200220/discord-is-not-an-acceptable-choice-for-free-software-projects/) - 2026-02-10
+- [The UK paid £4.1 million for a bookmarks site](https://mahadk.com/posts/ai-skills-hub) - 2026-01-30
+- [The Only Moat Left Is Knowing Things](https://growtika.com/blog/authenticity-edge) - 2026-01-30
+- [Quoting Jim Nielsen on Apple](https://notes.jim-nielsen.com/) - 2026-01-30
+- [Politics and the English Language](https://daringfireball.net/2026/01/politics_and_the_english_language_january_2026_edition) - 2026-01-30
+- [Backseat Software](https://blog.mikeswanson.com/backseat-software/) - 2026-01-30
+- [Your App Sub Is Now My Weekend Project](https://rselbach.com/your-sub-is-now-my-weekend-project) - 2026-01-23
 <!-- blog ends -->
