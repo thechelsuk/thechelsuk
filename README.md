@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Making an RSS only feed with Jekyll](https://thechels.uk/making-an-rss-only-feed-with-jekyll) - 2026-03-06
 - [On my worst days it feels almost demonic](https://thechels.uk/on-my-worst-days-it-feels-almost-demonic) - 2026-03-03
 - [How to Record and Retrieve Anything You’ve Ever Had to Look Up Twice](https://thechels.uk/how-to-record-and-retrieve-anything-you-ve-ever-had-to-look-up-twice) - 2026-03-02
 - [How do I support a team losing motivation due to AI vs dev work](https://thechels.uk/how-do-i-support-a-team-losing-motivation-due-to-ai-vs-dev-work) - 2026-03-02
@@ -15,5 +16,4 @@
 - [Inside Anthropic’s Killer-Robot Dispute With the Pentagon](https://thechels.uk/inside-anthropic-s-killer-robot-dispute-with-the-pentagon) - 2026-03-01
 - [Why Am I Doing the Thinking for You?](https://thechels.uk/why-am-i-doing-the-thinking-for-you-terrible-software) - 2026-02-28
 - [Cancel ChatGPT movement goes big after OpenAI DOW move](https://thechels.uk/cancel-chatgpt-movement-goes-big-after-openai-dow-move) - 2026-02-28
-- [AI Can Now Easily Unmask Your Secret Online Life](https://thechels.uk/ai-can-now-easily-unmask-your-secret-online-life) - 2026-02-28
 <!-- blog ends -->
