@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Apple’s iOS 26.4 update adds age verification in the UK](https://thechels.uk/apple-s-ios-26.4-update-adds-age-verification-in-the-uk) - 2026-03-26
 - [Monthly Mixtape - Mar 2026](https://thechels.uk/monthly-mixtape-mar-2026) - 2026-03-24
 - [Incidence of ME peaks in adolescence or early middle age](https://thechels.uk/incidence-of-me-peaks-in-adolescence-or-early-middle-age-institute-of-genetics-and-cancer-institute-of-genetics-and-cancer) - 2026-03-24
 - [Swansea man was active but now he can't walk or talk at 28](https://thechels.uk/swansea-man-was-active-but-now-he-can't-walk-or-talk-at-28) - 2026-03-23
@@ -15,5 +16,4 @@
 - [New York Times and the 49MB Web Page](https://thechels.uk/new-york-times-and-the-49mb-web-page) - 2026-03-21
 - [The Trump Paradox](https://thechels.uk/the-trump-paradox) - 2026-03-19
 - [Empty Stands - Fans with ME+](https://thechels.uk/empty-stands-fans-with-me+) - 2026-03-19
-- [Every layer of review makes you 10x slower](https://thechels.uk/every-layer-of-review-makes-you-10x-slower) - 2026-03-17
 <!-- blog ends -->
