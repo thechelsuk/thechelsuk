@@ -8,12 +8,12 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [The BBC RSS Feeds are garbage](https://thechels.uk/the-bbc-rss-feeds-are-garbage) - 2026-04-04
+- [CSS Naked Day](https://thechels.uk/css-naked-day) - 2026-04-04
+- [UEFA backs officials after Chelsea's Sonia Bompastor criticism](https://thechels.uk/uefa-backs-officials-after-chelsea's-sonia-bompastor-criticism) - 2026-04-04
 - [Disabled people face lower benefits if not lifelong](https://thechels.uk/disabled-people-face-lower-benefits-if-conditions-like-me-not-deemed-lifelong) - 2026-04-01
 - [A Review of ME specialist provision on the NHS](https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs) - 2026-03-28
 - [Apple discontinues and has no plans for the Mac Pro](https://thechels.uk/apple-discontinues-and-has-no-plans-for-the-mac-pro) - 2026-03-28
 - [Apple Maps will have Ads](https://thechels.uk/apple-maps-will-have-ads) - 2026-03-28
 - [Effective Apologies](https://thechels.uk/effective-apologies) - 2026-03-26
-- [Apple’s iOS 26.4 update adds age verification in the UK](https://thechels.uk/apple-s-ios-26.4-update-adds-age-verification-in-the-uk) - 2026-03-26
-- [Monthly Mixtape - Mar 2026](https://thechels.uk/monthly-mixtape-mar-2026) - 2026-03-24
-- [Incidence of ME peaks in adolescence or early middle age](https://thechels.uk/incidence-of-me-peaks-in-adolescence-or-early-middle-age-institute-of-genetics-and-cancer-institute-of-genetics-and-cancer) - 2026-03-24
 <!-- blog ends -->
