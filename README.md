@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Homebridge 2.0 Launch](https://thechels.uk/homebridge-2.0-launch) - 2026-04-06
 - [The BBC RSS Feeds are garbage](https://thechels.uk/the-bbc-rss-feeds-are-garbage) - 2026-04-04
 - [CSS Naked Day](https://thechels.uk/css-naked-day) - 2026-04-04
 - [UEFA backs officials after Chelsea's Sonia Bompastor criticism](https://thechels.uk/uefa-backs-officials-after-chelsea's-sonia-bompastor-criticism) - 2026-04-04
@@ -15,5 +16,4 @@
 - [A Review of ME specialist provision on the NHS](https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs) - 2026-03-28
 - [Apple discontinues and has no plans for the Mac Pro](https://thechels.uk/apple-discontinues-and-has-no-plans-for-the-mac-pro) - 2026-03-28
 - [Apple Maps will have Ads](https://thechels.uk/apple-maps-will-have-ads) - 2026-03-28
-- [Effective Apologies](https://thechels.uk/effective-apologies) - 2026-03-26
 <!-- blog ends -->
