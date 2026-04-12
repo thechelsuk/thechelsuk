@@ -8,7 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
-- [Pompidou section 3 - Refactor post types](https://thechels.uk/pompidou-section-3) - 2026-04-12
+- [+ Pompidou section 3 - Refactor post types](https://thechels.uk/pompidou-section-3) - 2026-04-12
 - [How to use ways](https://thechels.uk/how-to-ways) - 2026-04-10
 - [£400 plug-in solar panels to be sold in UK](https://thechels.uk/400-plug-in-solar-to-be-sold-in-uk) - 2026-04-09
 - [Amazon is ending support for older Kindles and Kindle Fires](https://thechels.uk/amazon-is-ending-support-for-older-kindles-and-kindle-fires-the-verge) - 2026-04-08
