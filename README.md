@@ -9,11 +9,11 @@
 
 <!-- blog starts -->
 - [Daily - Daily Rundown for 2026-04-23](https://thechels.uk/2026-04-23-daily-rundown) - 2026-04-23
+- [Release - NNW Guro Theme Version v1.0.7](https://thechels.uk/nnw-guro-theme-release-b1825097761e) - 2026-04-23
+- [Release - NNW thechelsuk Theme Version v1.0.6](https://thechels.uk/nnw-thechelsuk-theme-release-0da89ff7f5fc) - 2026-04-23
 - [Linked - Chelsea sack Liam Rosenior](https://thechels.uk/chelsea-sack-liam-rosenior) - 2026-04-22
 - [Linked - CFCW Players Letter](https://thechels.uk/cfcw-players-letter) - 2026-04-22
 - [Linked - Chelsea FC Women to call Stamford Bridge home](https://thechels.uk/chelsea-fc-women-to-call-stamford-bridge-home) - 2026-04-22
 - [Daily - Daily Rundown for 2026-04-22](https://thechels.uk/2026-04-22-daily-rundown) - 2026-04-22
 - [Mixtape - Monthly Mixtape - Apr 2026](https://thechels.uk/Monthly-Mixtape-Apr-2026) - 2026-04-22
-- [Release - Thechels.uk Version 2.0.0](https://thechels.uk/thechels-uk-release-cbe4fbcdfe30) - 2026-04-22
-- [Linked - GitHub Copilot drops opus, pauses new pro users](https://thechels.uk/github-copilot-drops-opus,-pauses-new-pro-users) - 2026-04-21
 <!-- blog ends -->
