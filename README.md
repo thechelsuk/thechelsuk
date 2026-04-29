@@ -8,12 +8,12 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Linked - An update on GitHub availability](https://thechels.uk/an-update-on-github-availability) - 2026-04-29
+- [Linked - Zwift acquires Rouvy](https://thechels.uk/zwift-acquires-rouvy) - 2026-04-29
+- [Linked - Passkeys are the future says NCSC](https://thechels.uk/passkeys-are-the-future-says-ncsc) - 2026-04-29
 - [Linked - Sourcefeed - a pop-up RSS service launched](https://thechels.uk/sourcefeed-a-pop-up-rss-service-launched) - 2026-04-29
 - [Linked - Millie Bright announces retirement from football](https://thechels.uk/millie-bright-announces-retirement-from-football) - 2026-04-29
 - [Linked - BookStack Has Migrated From GitHub to Codeberg](https://thechels.uk/bookstack-has-migrated-from-github-to-codeberg) - 2026-04-29
 - [Linked - Before GitHub](https://thechels.uk/before-github) - 2026-04-29
 - [Linked - Ghostty Is Leaving GitHub](https://thechels.uk/ghostty-is-leaving-github) - 2026-04-29
-- [Linked - A potential diagnostic test for ME/CFS based on cell electrophysiology](https://thechels.uk/a-potential-diagnostic-test-for-me-cfs-based-on-cell-electrophysiology) - 2026-04-29
-- [Daily - Daily Rundown for 2026-04-29](https://thechels.uk/2026-04-29-daily-rundown) - 2026-04-29
-- [Linked - GitHub Copilot is moving to usage-based billing](https://thechels.uk/github-copilot-is-moving-to-usage-based-billing) - 2026-04-28
 <!-- blog ends -->
