@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-04-29](https://thechels.uk/2026-04-29-daily-rundown) - 2026-04-29
 - [Daily - Daily Rundown for 2026-04-28](https://thechels.uk/2026-04-28-daily-rundown) - 2026-04-28
 - [Daily - Daily Rundown for 2026-04-27](https://thechels.uk/2026-04-27-daily-rundown) - 2026-04-27
 - [Daily - Daily Rundown for 2026-04-26](https://thechels.uk/2026-04-26-daily-rundown) - 2026-04-26
@@ -15,5 +16,4 @@
 - [Daily - Daily Rundown for 2026-04-25](https://thechels.uk/2026-04-25-daily-rundown) - 2026-04-25
 - [Release - NNW Guro Theme Version v1.0.11](https://thechels.uk/nnw-guro-theme-release-202b97d771d4) - 2026-04-25
 - [Release - NNW thechelsuk Theme Version v1.0.11](https://thechels.uk/nnw-thechelsuk-theme-release-8c22fa8c3fd0) - 2026-04-25
-- [Daily - Daily Rundown for 2026-04-24](https://thechels.uk/2026-04-24-daily-rundown) - 2026-04-24
 <!-- blog ends -->
