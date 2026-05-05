@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-05-05](https://thechels.uk/2026-05-05-daily-rundown) - 2026-05-05
 - [Release - CF Worker X Redirect Version v1.0.3](https://thechels.uk/cf-worker-x-redirect-release-2ccbc7f48926) - 2026-05-05
 - [Daily - Daily Rundown for 2026-05-04](https://thechels.uk/2026-05-04-daily-rundown) - 2026-05-04
 - [Release - Nuchronic.uk Version 1.1.0](https://thechels.uk/nuchronic-uk-release-2ab952c7e7c5) - 2026-05-03
@@ -15,5 +16,4 @@
 - [Release - NNW Theme Bundle Version v1.7.2](https://thechels.uk/nnw-theme-bundle-release-a865ebf081e2) - 2026-05-03
 - [Daily - Daily Rundown for 2026-05-03](https://thechels.uk/2026-05-03-daily-rundown) - 2026-05-03
 - [Social - Brand](https://thechels.uk/brand) - 2026-05-02
-- [Release - NNW Theme Bundle Version v1.6.2](https://thechels.uk/nnw-theme-bundle-release-fc098d90d3fe) - 2026-05-02
 <!-- blog ends -->
