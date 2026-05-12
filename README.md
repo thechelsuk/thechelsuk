@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-05-12](https://thechels.uk/2026-05-12-daily-rundown) - 2026-05-12
 - [Daily - Daily Rundown for 2026-05-11](https://thechels.uk/2026-05-11-daily-rundown) - 2026-05-11
 - [Video - co-work news feed](https://thechels.uk/video-co-work-news-feed-ad7ec66d) - 2026-05-11
 - [Daily - Daily Rundown for 2026-05-10](https://thechels.uk/2026-05-10-daily-rundown) - 2026-05-10
@@ -15,5 +16,4 @@
 - [Daily - Daily Rundown for 2026-05-09](https://thechels.uk/2026-05-09-daily-rundown) - 2026-05-09
 - [Film Review - Apex](https://thechels.uk/films) - 2026-05-09
 - [Blog - Plans for RSS with NetNewsWire](https://thechels.uk/plans-for-rss-with-netnewswire) - 2026-05-08
-- [Gift - Get £50 when you join Octopus Energy](https://thechels.uk/get-50-when-you-join-octopus-energy) - 2026-05-08
 <!-- blog ends -->
