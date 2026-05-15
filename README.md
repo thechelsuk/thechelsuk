@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Linked - No in advance](https://thechels.uk/no-in-advance) - 2026-05-15
 - [Daily - Daily Rundown for 2026-05-15](https://thechels.uk/2026-05-15-daily-rundown) - 2026-05-15
 - [Daily - Daily Rundown for 2026-05-14](https://thechels.uk/2026-05-14-daily-rundown) - 2026-05-14
 - [Release - NNW Theme Bundle Version v1.9.2](https://thechels.uk/nnw-theme-bundle-release-79f22f31f761) - 2026-05-14
@@ -15,5 +16,4 @@
 - [Social - Film Club](https://thechels.uk/film-club) - 2026-05-13
 - [Daily - Daily Rundown for 2026-05-13](https://thechels.uk/2026-05-13-daily-rundown) - 2026-05-13
 - [Film Review - Into the Storm](https://thechels.uk/films) - 2026-05-13
-- [Film Review - The Dark Knight Rises](https://thechels.uk/films) - 2026-05-13
 <!-- blog ends -->
