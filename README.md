@@ -8,12 +8,12 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
-- [Release - Cheltenham Open Data Version newsletter-25962567977](https://thechels.uk/cheltenham-open-data-release-d4c2b1123c28) - 2026-05-16
+- [Release - Cheltenham Open Data Version newsletter-25965128157](https://thechels.uk/cheltenham-open-data-release-9aec8e2e1fe6) - 2026-05-16
+- [Release - Cheltenham Open Data Version newsletter-25965335933](https://thechels.uk/cheltenham-open-data-release-a400aa248379) - 2026-05-16
 - [Daily - Daily Rundown for 2026-05-16](https://thechels.uk/2026-05-16-daily-rundown) - 2026-05-16
 - [Linked - No in advance](https://thechels.uk/no-in-advance) - 2026-05-15
 - [Daily - Daily Rundown for 2026-05-15](https://thechels.uk/2026-05-15-daily-rundown) - 2026-05-15
 - [Daily - Daily Rundown for 2026-05-14](https://thechels.uk/2026-05-14-daily-rundown) - 2026-05-14
 - [Release - NNW Theme Bundle Version v1.9.2](https://thechels.uk/nnw-theme-bundle-release-79f22f31f761) - 2026-05-14
 - [Social - What can you buy with a £5m donation](https://thechels.uk/what-can-you-buy-with-a-5m-donation) - 2026-05-13
-- [Social - Film Club](https://thechels.uk/film-club) - 2026-05-13
 <!-- blog ends -->
