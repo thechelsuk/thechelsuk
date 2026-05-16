@@ -8,9 +8,9 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
-- [Release - Cheltenham Open Data Version newsletter-25965128157](https://thechels.uk/cheltenham-open-data-release-9aec8e2e1fe6) - 2026-05-16
 - [Release - Cheltenham Open Data Version newsletter-25965335933](https://thechels.uk/cheltenham-open-data-release-a400aa248379) - 2026-05-16
 - [Daily - Daily Rundown for 2026-05-16](https://thechels.uk/2026-05-16-daily-rundown) - 2026-05-16
+- [Film Review - Hercules](https://thechels.uk/films) - 2026-05-16
 - [Linked - No in advance](https://thechels.uk/no-in-advance) - 2026-05-15
 - [Daily - Daily Rundown for 2026-05-15](https://thechels.uk/2026-05-15-daily-rundown) - 2026-05-15
 - [Daily - Daily Rundown for 2026-05-14](https://thechels.uk/2026-05-14-daily-rundown) - 2026-05-14
