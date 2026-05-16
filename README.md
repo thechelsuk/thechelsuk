@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-05-16](https://thechels.uk/2026-05-16-daily-rundown) - 2026-05-16
 - [Linked - No in advance](https://thechels.uk/no-in-advance) - 2026-05-15
 - [Daily - Daily Rundown for 2026-05-15](https://thechels.uk/2026-05-15-daily-rundown) - 2026-05-15
 - [Daily - Daily Rundown for 2026-05-14](https://thechels.uk/2026-05-14-daily-rundown) - 2026-05-14
@@ -15,5 +16,4 @@
 - [Social - What can you buy with a £5m donation](https://thechels.uk/what-can-you-buy-with-a-5m-donation) - 2026-05-13
 - [Social - Film Club](https://thechels.uk/film-club) - 2026-05-13
 - [Daily - Daily Rundown for 2026-05-13](https://thechels.uk/2026-05-13-daily-rundown) - 2026-05-13
-- [Film Review - Into the Storm](https://thechels.uk/films) - 2026-05-13
 <!-- blog ends -->
