@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Social - It's happened again](https://thechels.uk/its-happened-again) - 2026-05-19
 - [Daily - Daily Rundown for 2026-05-19](https://thechels.uk/2026-05-19-daily-rundown) - 2026-05-19
 - [Daily - Daily Rundown for 2026-05-18](https://thechels.uk/2026-05-18-daily-rundown) - 2026-05-18
 - [Daily - Daily Rundown for 2026-05-17](https://thechels.uk/2026-05-17-daily-rundown) - 2026-05-17
@@ -15,5 +16,4 @@
 - [Daily - Daily Rundown for 2026-05-16](https://thechels.uk/2026-05-16-daily-rundown) - 2026-05-16
 - [Film Review - Hercules](https://thechels.uk/films) - 2026-05-16
 - [Linked - No in advance](https://thechels.uk/no-in-advance) - 2026-05-15
-- [Daily - Daily Rundown for 2026-05-15](https://thechels.uk/2026-05-15-daily-rundown) - 2026-05-15
 <!-- blog ends -->
