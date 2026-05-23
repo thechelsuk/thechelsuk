@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Release - Boinc @ thechelsuk Version 1.0.1](https://thechels.uk/boinc-thechelsuk-release-290ef30dcfc4) - 2026-05-22
 - [Film - Film Club Friday for May 2026](https://thechels.uk/film-monthly-may-2026) - 2026-05-22
 - [Blog - The modern web in the AI era in 2026](https://thechels.uk/modern-web-ai-2026) - 2026-05-22
 - [Mixtape - Monthly Mixtape - May 2026](https://thechels.uk/monthly-mixtape-may-2026) - 2026-05-22
@@ -15,5 +16,4 @@
 - [Daily - Daily Rundown for 2026-05-22](https://thechels.uk/2026-05-22-daily-rundown) - 2026-05-22
 - [Film Review - The Call](https://thechels.uk/films) - 2026-05-22
 - [Daily - Daily Rundown for 2026-05-21](https://thechels.uk/2026-05-21-daily-rundown) - 2026-05-21
-- [Film Review - Hypnotic](https://thechels.uk/films) - 2026-05-21
 <!-- blog ends -->
