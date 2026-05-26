@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-05-26](https://thechels.uk/2026-05-26-daily-rundown) - 2026-05-26
 - [Daily - Daily Rundown for 2026-05-25](https://thechels.uk/2026-05-25-daily-rundown) - 2026-05-25
 - [Film Review - The Orphans](https://thechels.uk/films) - 2026-05-25
 - [Film Review - Collateral](https://thechels.uk/films) - 2026-05-25
@@ -15,5 +16,4 @@
 - [Daily - Daily Rundown for 2026-05-24](https://thechels.uk/2026-05-24-daily-rundown) - 2026-05-24
 - [Daily - Daily Rundown for 2026-05-23](https://thechels.uk/2026-05-23-daily-rundown) - 2026-05-23
 - [Film Review - Peaky Blinders: The Immortal Man](https://thechels.uk/films) - 2026-05-23
-- [Release - Boinc @ thechelsuk Version 1.0.1](https://thechels.uk/boinc-thechelsuk-release-290ef30dcfc4) - 2026-05-22
 <!-- blog ends -->
