@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Release - Links Version 1.0.1](https://thechels.uk/links-release-a3ecd29c6569) - 2026-05-27
 - [Daily - Daily Rundown for 2026-05-27](https://thechels.uk/2026-05-27-daily-rundown) - 2026-05-27
 - [Daily - Daily Rundown for 2026-05-26](https://thechels.uk/2026-05-26-daily-rundown) - 2026-05-26
 - [Film Review - Bad Boys: Ride or Die](https://thechels.uk/films) - 2026-05-26
@@ -15,5 +16,4 @@
 - [Film Review - The Orphans](https://thechels.uk/films) - 2026-05-25
 - [Film Review - Collateral](https://thechels.uk/films) - 2026-05-25
 - [Film Review - The Killer](https://thechels.uk/films) - 2026-05-25
-- [Daily - Daily Rundown for 2026-05-24](https://thechels.uk/2026-05-24-daily-rundown) - 2026-05-24
 <!-- blog ends -->
