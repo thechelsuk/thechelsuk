@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-05-30](https://thechels.uk/2026-05-30-daily-rundown) - 2026-05-30
 - [Daily - Daily Rundown for 2026-05-29](https://thechels.uk/2026-05-29-daily-rundown) - 2026-05-29
 - [Film Review - Hollow Man](https://thechels.uk/films) - 2026-05-29
 - [Daily - Daily Rundown for 2026-05-28](https://thechels.uk/2026-05-28-daily-rundown) - 2026-05-28
@@ -15,5 +16,4 @@
 - [Film Review - The Amazing Spider-Man](https://thechels.uk/films) - 2026-05-28
 - [Film Review - Bandit](https://thechels.uk/films) - 2026-05-28
 - [Release - Links Version 1.0.1](https://thechels.uk/links-release-a3ecd29c6569) - 2026-05-27
-- [Daily - Daily Rundown for 2026-05-27](https://thechels.uk/2026-05-27-daily-rundown) - 2026-05-27
 <!-- blog ends -->
