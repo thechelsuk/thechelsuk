@@ -10,10 +10,10 @@
 <!-- blog starts -->
 - [Release - Homebridge (YSA2) Yale Alarm Version v2.2.5](https://thechels.uk/homebridge-ysa2-yale-alarm-release-1fc3c4de17bd) - 2026-06-01
 - [Daily - Daily Rundown for 2026-06-01](https://thechels.uk/2026-06-01-daily-rundown) - 2026-06-01
+- [Film Review - Apollo 13](https://thechels.uk/films) - 2026-06-01
+- [Film Review - Warcraft](https://thechels.uk/films) - 2026-06-01
 - [Film Review - Jurassic World: Rebirth](https://thechels.uk/films) - 2026-06-01
 - [Film Review - Jurassic World: Dominion](https://thechels.uk/films) - 2026-06-01
 - [Film Review - Jurassic Park](https://thechels.uk/films) - 2026-06-01
 - [Film Review - The Lost World: Jurassic Park](https://thechels.uk/films) - 2026-06-01
-- [Film Review - Eye in the Sky](https://thechels.uk/films) - 2026-06-01
-- [Film Review - Outside the Wire](https://thechels.uk/films) - 2026-06-01
 <!-- blog ends -->
