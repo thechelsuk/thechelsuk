@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-06-04](https://thechels.uk/2026-06-04-daily-rundown) - 2026-06-04
 - [Daily - Daily Rundown for 2026-06-03](https://thechels.uk/2026-06-03-daily-rundown) - 2026-06-03
 - [Film Review - Jurassic Park III](https://thechels.uk/films) - 2026-06-03
 - [Film Review - Jurassic World: Fallen Kingdom](https://thechels.uk/films) - 2026-06-03
@@ -15,5 +16,4 @@
 - [Film Review - Creed II](https://thechels.uk/films) - 2026-06-03
 - [Daily - Daily Rundown for 2026-06-02](https://thechels.uk/2026-06-02-daily-rundown) - 2026-06-02
 - [Film Review - Creed](https://thechels.uk/films) - 2026-06-02
-- [Release - Homebridge (YSA2) Yale Alarm Version v2.2.5](https://thechels.uk/homebridge-ysa2-yale-alarm-release-1fc3c4de17bd) - 2026-06-01
 <!-- blog ends -->
