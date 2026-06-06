@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Blog - WeakNotes 2026-06-05](https://thechels.uk/weaknotes-2026-06-05) - 2026-06-06
 - [Daily - Daily Rundown for 2026-06-06](https://thechels.uk/2026-06-06-daily-rundown) - 2026-06-06
 - [Linked - DF quoting Daniel Jalkut on AI](https://thechels.uk/df-quoting-daniel-jalkut-on-ai) - 2026-06-05
 - [Linked - Cool down before you install as gems to be vetted](https://thechels.uk/cool-down-before-you-install-gems-to-be-vetted) - 2026-06-05
@@ -15,5 +16,4 @@
 - [Daily - Daily Rundown for 2026-06-05](https://thechels.uk/2026-06-05-daily-rundown) - 2026-06-05
 - [Film Review - Rudy](https://thechels.uk/films) - 2026-06-05
 - [Daily - Daily Rundown for 2026-06-04](https://thechels.uk/2026-06-04-daily-rundown) - 2026-06-04
-- [Daily - Daily Rundown for 2026-06-03](https://thechels.uk/2026-06-03-daily-rundown) - 2026-06-03
 <!-- blog ends -->
