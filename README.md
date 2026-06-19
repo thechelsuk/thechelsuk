@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-06-19](https://thechels.uk/2026-06-19-daily-rundown) - 2026-06-19
 - [Daily - Daily Rundown for 2026-06-18](https://thechels.uk/2026-06-18-daily-rundown) - 2026-06-18
 - [Blog - Embracing the quartering of football](https://thechels.uk/embracing-the-quartering-of-football) - 2026-06-17
 - [Daily - Daily Rundown for 2026-06-17](https://thechels.uk/2026-06-17-daily-rundown) - 2026-06-17
@@ -15,5 +16,4 @@
 - [Daily - Daily Rundown for 2026-06-16](https://thechels.uk/2026-06-16-daily-rundown) - 2026-06-16
 - [Linked - Social media to be banned for under-16s](https://thechels.uk/social-media-to-be-banned-for-under-16s) - 2026-06-15
 - [Daily - Daily Rundown for 2026-06-15](https://thechels.uk/2026-06-15-daily-rundown) - 2026-06-15
-- [Linked - Self-Hosted YouTube RSS Subscriptions Feed](https://thechels.uk/self-hosted-youtube-rss-subscriptions-feed) - 2026-06-14
 <!-- blog ends -->
