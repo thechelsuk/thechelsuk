@@ -10,10 +10,10 @@
 <!-- blog starts -->
 - [Ways - How to manage raspberry pi](https://thechels.uk/ways-how-to-manage-pi) - 2026-06-19
 - [Daily - Daily Rundown for 2026-06-19](https://thechels.uk/2026-06-19-daily-rundown) - 2026-06-19
+- [Linked - Moving a Hugo Blog Off GitHub Pages](https://thechels.uk/moving-a-hugo-blog-off-github-pages) - 2026-06-19
+- [Linked - Apple is about to change Hide My Email domain](https://thechels.uk/apple-is-about-to-change-hide-my-email-domain) - 2026-06-19
 - [Mixtape - Monthly Mixtape - Jun 2026](https://thechels.uk/monthly-mixtape-june-2026) - 2026-06-19
 - [Daily - Daily Rundown for 2026-06-18](https://thechels.uk/2026-06-18-daily-rundown) - 2026-06-18
+- [Linked - Pain Rating Scale](https://thechels.uk/pain-rating-scale) - 2026-06-18
 - [Blog - Embracing the quartering of football](https://thechels.uk/embracing-the-quartering-of-football) - 2026-06-17
-- [Daily - Daily Rundown for 2026-06-17](https://thechels.uk/2026-06-17-daily-rundown) - 2026-06-17
-- [Linked - How to Find Stale Feeds with the Dinosaurs Window](https://thechels.uk/how-to-find-stale-feeds-with-the-dinosaurs-window) - 2026-06-16
-- [Daily - Daily Rundown for 2026-06-16](https://thechels.uk/2026-06-16-daily-rundown) - 2026-06-16
 <!-- blog ends -->
