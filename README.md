@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Linked - HMRC ends the ISA tax free status with 22% tax on cash interest](https://thechels.uk/hmrc-ends-the-isa-tax-free-status-with-22-tax-on-cash-interest) - 2026-06-23
 - [Daily - Daily Rundown for 2026-06-23](https://thechels.uk/2026-06-23-daily-rundown) - 2026-06-23
 - [- How to manage website projects and releases](https://thechels.uk/ways-how-to-manage-projects-and-release) - 2026-06-22
 - [Release - Scripts - Convert Google Takeout YouTube CSV to OPML (python) Version v1.0.0](https://thechels.uk/scripts-convert-google-takeout-youtube-csv-to-opml-python-release-35a1726111f4) - 2026-06-22
@@ -15,5 +16,4 @@
 - [Daily - Daily Rundown for 2026-06-22](https://thechels.uk/2026-06-22-daily-rundown) - 2026-06-22
 - [Daily - Daily Rundown for 2026-06-21](https://thechels.uk/2026-06-21-daily-rundown) - 2026-06-21
 - [Daily - Daily Rundown for 2026-06-20](https://thechels.uk/2026-06-20-daily-rundown) - 2026-06-20
-- [Ways - How to manage raspberry pi](https://thechels.uk/ways-how-to-manage-pi) - 2026-06-19
 <!-- blog ends -->
