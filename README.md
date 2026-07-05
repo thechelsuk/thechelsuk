@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-07-05](https://thechels.uk/2026-07-05-daily-rundown) - 2026-07-05
 - [Linked - This blog is written in en-GB](https://thechels.uk/this-blog-is-written-in-en-gb) - 2026-07-05
 - [Release - RedemptionX - Reddit content deletion tool Version v1.2.3](https://thechels.uk/redemptionx-reddit-content-deletion-tool-release-d62c6cdfab6a) - 2026-07-04
 - [Daily - Daily Rundown for 2026-07-04](https://thechels.uk/2026-07-04-daily-rundown) - 2026-07-04
@@ -15,5 +16,4 @@
 - [Film Review - Hotel Artemis](https://thechels.uk/films) - 2026-07-04
 - [Linked - Apple's Hide My Email could be exposing your real email address](https://thechels.uk/apples-hide-my-email-could-be-exposing-your-real-email-address) - 2026-07-03
 - [Linked - Salma says Goodbye](https://thechels.uk/salma-says-goodbye) - 2026-07-03
-- [Daily - Daily Rundown for 2026-07-03](https://thechels.uk/2026-07-03-daily-rundown) - 2026-07-03
 <!-- blog ends -->
