@@ -8,12 +8,12 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-07-07](https://thechels.uk/2026-07-07-daily-rundown) - 2026-07-07
+- [Film Review - Man of Steel](https://thechels.uk/films) - 2026-07-07
 - [Film Review - Fast & Furious Presents: Hobbs & Shaw (2019)](https://thechels.uk/films) - 2026-07-07
 - [Film Review - Fast X](https://thechels.uk/films) - 2026-07-07
 - [Film Review - F9: The Fast Saga](https://thechels.uk/films) - 2026-07-07
 - [Film Review - The Fate of the Furious](https://thechels.uk/films) - 2026-07-07
 - [Film Review - Furious 7](https://thechels.uk/films) - 2026-07-07
 - [Film Review - Fast & Furious 6](https://thechels.uk/films) - 2026-07-07
-- [Film Review - Fast Five](https://thechels.uk/films) - 2026-07-07
-- [Film Review - Fast & Furious](https://thechels.uk/films) - 2026-07-07
 <!-- blog ends -->
