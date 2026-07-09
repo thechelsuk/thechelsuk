@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Blog - Week Notes Origins](https://thechels.uk/week-notes-origins) - 2026-07-09
 - [Daily - Daily Rundown for 2026-07-09](https://thechels.uk/2026-07-09-daily-rundown) - 2026-07-09
 - [Film Review - The Hobbit: The Battle of the Five Armies](https://thechels.uk/films) - 2026-07-09
 - [Linked - Eye problems after COVID-19 can now be explained](https://thechels.uk/eye-problems-after-covid-19-can-now-be-explained) - 2026-07-08
@@ -15,5 +16,4 @@
 - [Film Review - Batman v Superman: Dawn of Justice](https://thechels.uk/films) - 2026-07-08
 - [Daily - Daily Rundown for 2026-07-07](https://thechels.uk/2026-07-07-daily-rundown) - 2026-07-07
 - [Film Review - Man of Steel](https://thechels.uk/films) - 2026-07-07
-- [Film Review - Fast & Furious Presents: Hobbs & Shaw (2019)](https://thechels.uk/films) - 2026-07-07
 <!-- blog ends -->
