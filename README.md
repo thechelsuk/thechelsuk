@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-07-17](https://thechels.uk/2026-07-17-daily-rundown) - 2026-07-17
 - [Daily - Daily Rundown for 2026-07-16](https://thechels.uk/2026-07-16-daily-rundown) - 2026-07-16
 - [Daily - Daily Rundown for 2026-07-15](https://thechels.uk/2026-07-15-daily-rundown) - 2026-07-15
 - [Social - De-Meta](https://thechels.uk/de-meta) - 2026-07-15
@@ -15,5 +16,4 @@
 - [Daily - Daily Rundown for 2026-07-13](https://thechels.uk/2026-07-13-daily-rundown) - 2026-07-13
 - [Film Review - Prey](https://thechels.uk/films) - 2026-07-13
 - [Film Review - 47 Meters Down](https://thechels.uk/films) - 2026-07-13
-- [Daily - Daily Rundown for 2026-07-12](https://thechels.uk/2026-07-12-daily-rundown) - 2026-07-12
 <!-- blog ends -->
