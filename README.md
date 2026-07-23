@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Release - Homebridge (YSA2) Yale Alarm Version v2.4.2](https://thechels.uk/homebridge-ysa2-yale-alarm-release-3d530d98c364) - 2026-07-23
 - [Daily - Daily Rundown for 2026-07-23](https://thechels.uk/2026-07-23-daily-rundown) - 2026-07-23
 - [Daily - Daily Rundown for 2026-07-22](https://thechels.uk/2026-07-22-daily-rundown) - 2026-07-22
 - [Daily - Daily Rundown for 2026-07-21](https://thechels.uk/2026-07-21-daily-rundown) - 2026-07-21
@@ -15,5 +16,4 @@
 - [Daily - Daily Rundown for 2026-07-19](https://thechels.uk/2026-07-19-daily-rundown) - 2026-07-19
 - [Film Review - Kung Fu Panda](https://thechels.uk/films) - 2026-07-19
 - [Daily - Daily Rundown for 2026-07-18](https://thechels.uk/2026-07-18-daily-rundown) - 2026-07-18
-- [Daily - Daily Rundown for 2026-07-17](https://thechels.uk/2026-07-17-daily-rundown) - 2026-07-17
 <!-- blog ends -->
