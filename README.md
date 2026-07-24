@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Film - Film Club Friday for July-2026](https://thechels.uk/film-monthly-july-2026) - 2026-07-24
 - [Daily - Daily Rundown for 2026-07-24](https://thechels.uk/2026-07-24-daily-rundown) - 2026-07-24
 - [Gift - Join Octopus Energy and get £50 credit](https://thechels.uk/gift-octopus) - 2026-07-23
 - [Blog - Coasting to FIRE in the UK](https://thechels.uk/coasting-to-fire-in-the-uk) - 2026-07-23
@@ -15,5 +16,4 @@
 - [Daily - Daily Rundown for 2026-07-23](https://thechels.uk/2026-07-23-daily-rundown) - 2026-07-23
 - [Daily - Daily Rundown for 2026-07-22](https://thechels.uk/2026-07-22-daily-rundown) - 2026-07-22
 - [Daily - Daily Rundown for 2026-07-21](https://thechels.uk/2026-07-21-daily-rundown) - 2026-07-21
-- [Daily - Daily Rundown for 2026-07-20](https://thechels.uk/2026-07-20-daily-rundown) - 2026-07-20
 <!-- blog ends -->
