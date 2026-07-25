@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-07-25](https://thechels.uk/2026-07-25-daily-rundown) - 2026-07-25
 - [Mixtape - Monthly Mixtape - Jul 2026](https://thechels.uk/monthly-music-july-2026) - 2026-07-25
 - [Film - Film Club Friday for July-2026](https://thechels.uk/film-monthly-july-2026) - 2026-07-24
 - [Daily - Daily Rundown for 2026-07-24](https://thechels.uk/2026-07-24-daily-rundown) - 2026-07-24
@@ -15,5 +16,4 @@
 - [Blog - Coasting to FIRE in the UK](https://thechels.uk/coasting-to-fire-in-the-uk) - 2026-07-23
 - [Release - Homebridge (YSA2) Yale Alarm Version v2.4.2](https://thechels.uk/homebridge-ysa2-yale-alarm-release-3d530d98c364) - 2026-07-23
 - [Daily - Daily Rundown for 2026-07-23](https://thechels.uk/2026-07-23-daily-rundown) - 2026-07-23
-- [Daily - Daily Rundown for 2026-07-22](https://thechels.uk/2026-07-22-daily-rundown) - 2026-07-22
 <!-- blog ends -->
