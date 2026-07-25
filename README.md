@@ -15,5 +15,5 @@
 - [Film - Film Club Friday for July-2026](https://thechels.uk/film-monthly-july-2026) - 2026-07-24
 - [Daily - Daily Rundown for 2026-07-24](https://thechels.uk/2026-07-24-daily-rundown) - 2026-07-24
 - [Gift - Join Octopus Energy and get £50 credit](https://thechels.uk/gift-octopus) - 2026-07-23
-- [Blog - Coasting to FIRE in the UK](https://thechels.uk/coasting-to-fire-in-the-uk) - 2026-07-23
+- [Gift - Join Monzo and get up to £100 free](https://thechels.uk/gift-monzo) - 2026-07-23
 <!-- blog ends -->
