@@ -9,7 +9,7 @@
 
 <!-- blog starts -->
 - [Daily - Daily Rundown for 2026-07-30](https://thechels.uk/2026-07-30-daily-rundown) - 2026-07-30
-- [Ways - How to generate a menu from a jekyll collection](https://thechels.uk/how-to-generatre-a-menu-list-from-a-collection) - 2026-07-29
+- [Ways - How to Generate a Menu From a Jekyll Collection](https://thechels.uk/how-to-generatre-a-menu-list-from-a-collection) - 2026-07-29
 - [Linked - UEFA statement on The Times article](https://thechels.uk/uefa-statement-on-the-times-article) - 2026-07-29
 - [Daily - Daily Rundown for 2026-07-29](https://thechels.uk/2026-07-29-daily-rundown) - 2026-07-29
 - [Ride - Whoosh - Colombia - Mompox City](https://thechels.uk/rides/whoose-colombia-mompox-city) - 2026-07-28
