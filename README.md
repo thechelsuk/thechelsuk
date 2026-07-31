@@ -8,12 +8,12 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Blog - Spontaneous Remission of ME/CFS in 2026](https://thechels.uk/remission-of-me-cfs) - 2026-07-31
+- [Blog - WeakNotes 2026-07-31](https://thechels.uk/weaknotes-2026-06-31) - 2026-07-31
 - [Daily - Daily Rundown for 2026-07-31](https://thechels.uk/2026-07-31-daily-rundown) - 2026-07-31
 - [Linked - I ♥ RSS](https://thechels.uk/i-rss-andrew-shell-s-weblog) - 2026-07-30
 - [Daily - Daily Rundown for 2026-07-30](https://thechels.uk/2026-07-30-daily-rundown) - 2026-07-30
 - [Linked - Uefa Statement on behalf of its 55 national associations](https://thechels.uk/uefa-statement-on-behalf-of-uefa-and-its-55-national-associations-uefa-com) - 2026-07-30
 - [Ways - How to Generate a Menu From a Jekyll Collection](https://thechels.uk/how-to-generatre-a-menu-list-from-a-collection) - 2026-07-29
 - [Linked - UEFA statement on The Times article](https://thechels.uk/uefa-statement-on-the-times-article) - 2026-07-29
-- [Daily - Daily Rundown for 2026-07-29](https://thechels.uk/2026-07-29-daily-rundown) - 2026-07-29
-- [Ride - Whoosh - Colombia - Mompox City](https://thechels.uk/rides/whoose-colombia-mompox-city) - 2026-07-28
 <!-- blog ends -->
