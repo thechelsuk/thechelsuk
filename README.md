@@ -18,7 +18,7 @@
 - [Daily - Daily Rundown for 2026-07-31](https://thechels.uk/2026-07-31-daily-rundown) - 2026-07-31
 <!-- blog ends -->
 
-## Offers
+## Offers
 
 - [Octopus Energy - £50 credit when you switch](https://share.octopus.energy/ideal-ant-315)
 - [Electroverse EV Charging - £5 free credit when you join.](https://electroverse.octopus.energy/sign-up/magic?referralCode=aglow-louse-16571)
