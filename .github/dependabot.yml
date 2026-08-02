@@ -6,7 +6,11 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+    assignees:
+      - thechelsuk
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
       interval: "daily"
+    assignees:
+      - thechelsuk
