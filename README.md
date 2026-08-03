@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Ride - Zwift - Flat Out Fast in Watopia](https://thechels.uk/rides/zwift-flat-out-fast-in-watopia-2196691209601220640) - 2026-08-03
 - [Daily - Daily Rundown for 2026-08-03](https://thechels.uk/2026-08-03-daily-rundown) - 2026-08-03
 - [Linked - BBC licence fee payments down 800,000 in two years](https://thechels.uk/bbc-faces-real-jeopardy-as-licence-fee-payments-fall-faster-than-expected-bbc-licence-fee-the-guardian) - 2026-08-02
 - [Social - Patiently waiting for Apple](https://thechels.uk/patiently-waiting-for-apple) - 2026-08-02
@@ -15,7 +16,6 @@
 - [Release - Hiyd - Chrome Extension for Linked/Quote capture Version v2.0.1](https://thechels.uk/hiyd-chrome-extension-for-linked-quote-capture-release-dd01da7277fe) - 2026-08-01
 - [Release - Hiyd - Chrome Extension for Linked/Quote capture v2.0.0](https://thechels.uk/hiyd-chrome-extension-for-linked-quote-capture-release-dc23d828a0c0) - 2026-08-01
 - [Linked - UEFA welcomes FIFA’s withdrawal of plans](https://thechels.uk/uefa-welcomes-fifa-s-withdrawal-of-plans-to-sell-a-stake-in-the-world-cup-uefa-com) - 2026-08-01
-- [Daily - Daily Rundown for 2026-08-01](https://thechels.uk/2026-08-01-daily-rundown) - 2026-08-01
 <!-- blog ends -->
 
 ## Offers
