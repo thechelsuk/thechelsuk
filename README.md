@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Blog - How I made £20 quickly and legally online in the UK and you could make 100s](https://thechels.uk/make-20-online-easily) - 2026-08-05
 - [Daily - Daily Rundown for 2026-08-05](https://thechels.uk/2026-08-05-daily-rundown) - 2026-08-05
 - [Daily - Daily Rundown for 2026-08-04](https://thechels.uk/2026-08-04-daily-rundown) - 2026-08-04
 - [Ride - Zwift - Flat Out Fast in Watopia](https://thechels.uk/rides/zwift-flat-out-fast-in-watopia-2196691209601220640) - 2026-08-03
@@ -15,7 +16,6 @@
 - [Video - Lighting the way | #thechelsuk on #Twitch](https://thechels.uk/video-lighting-the-way-thechelsuk-on-twitch-dee0b25d) - 2026-08-03
 - [Linked - BBC licence fee payments down 800,000 in two years](https://thechels.uk/bbc-faces-real-jeopardy-as-licence-fee-payments-fall-faster-than-expected-bbc-licence-fee-the-guardian) - 2026-08-02
 - [Social - Patiently waiting for Apple](https://thechels.uk/patiently-waiting-for-apple) - 2026-08-02
-- [Ride - Zwift - The Classic in Watopia](https://thechels.uk/rides/zwift-the-classic-in-watopia-2195220104206172208) - 2026-08-01
 <!-- blog ends -->
 
 ## Offers
