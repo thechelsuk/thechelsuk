@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-08-08](https://thechels.uk/2026-08-08-daily-rundown) - 2026-08-08
 - [Daily - Daily Rundown for 2026-08-07](https://thechels.uk/2026-08-07-daily-rundown) - 2026-08-07
 - [Daily - Daily Rundown for 2026-08-06](https://thechels.uk/2026-08-06-daily-rundown) - 2026-08-06
 - [Blog - How I made £20 quickly and legally online in the UK and you could make 100s](https://thechels.uk/make-20-online-easily) - 2026-08-05
@@ -15,7 +16,6 @@
 - [Daily - Daily Rundown for 2026-08-04](https://thechels.uk/2026-08-04-daily-rundown) - 2026-08-04
 - [Ride - Zwift - Flat Out Fast in Watopia](https://thechels.uk/rides/zwift-flat-out-fast-in-watopia-2196691209601220640) - 2026-08-03
 - [Daily - Daily Rundown for 2026-08-03](https://thechels.uk/2026-08-03-daily-rundown) - 2026-08-03
-- [Video - Lighting the way | #thechelsuk on #Twitch](https://thechels.uk/video-lighting-the-way-thechelsuk-on-twitch-dee0b25d) - 2026-08-03
 <!-- blog ends -->
 
 ## Offers
