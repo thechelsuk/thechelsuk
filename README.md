@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Blog - What is Sequencing Risk in Early Retirement - with Practical Examples](https://thechels.uk/what-is-sequencing-risk) - 2026-08-09
 - [Daily - Daily Rundown for 2026-08-09](https://thechels.uk/2026-08-09-daily-rundown) - 2026-08-09
 - [Blog - Cash is risky, the stock market is volatile, and why that distinction matters in 2026](https://thechels.uk/cash-is-risky-stocks-are-volatile) - 2026-08-08
 - [Daily - Daily Rundown for 2026-08-08](https://thechels.uk/2026-08-08-daily-rundown) - 2026-08-08
@@ -15,7 +16,6 @@
 - [Daily - Daily Rundown for 2026-08-06](https://thechels.uk/2026-08-06-daily-rundown) - 2026-08-06
 - [Blog - How I made £20 quickly and legally online in the UK and you could make 100s](https://thechels.uk/make-20-online-easily) - 2026-08-05
 - [Daily - Daily Rundown for 2026-08-05](https://thechels.uk/2026-08-05-daily-rundown) - 2026-08-05
-- [Daily - Daily Rundown for 2026-08-04](https://thechels.uk/2026-08-04-daily-rundown) - 2026-08-04
 <!-- blog ends -->
 
 ## Offers
