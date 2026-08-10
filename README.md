@@ -8,7 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
-- [Blog - The Road to FIRE - Building the ISA Bridge to 58 and finding the Apex](https://thechels.uk/the-ISA-retirement-bridge) - 2026-08-10
+- [Blog - The Road to FIRE - Building the ISA Bridge to 58 and Finding the Apex](https://thechels.uk/the-ISA-retirement-bridge) - 2026-08-10
 - [Daily - Daily Rundown for 2026-08-10](https://thechels.uk/2026-08-10-daily-rundown) - 2026-08-10
 - [Blog - What is Sequencing Risk in Early Retirement - with Practical Examples](https://thechels.uk/what-is-sequencing-risk) - 2026-08-09
 - [Daily - Daily Rundown for 2026-08-09](https://thechels.uk/2026-08-09-daily-rundown) - 2026-08-09
