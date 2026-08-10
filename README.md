@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Release - Cheltenham Open Data Version 2.0.0](https://thechels.uk/cheltenham-open-data-release-e350ae87558b) - 2026-08-10
 - [Blog - The Road to FIRE - Building the ISA Bridge to 58 and Finding the Apex](https://thechels.uk/the-ISA-retirement-bridge) - 2026-08-10
 - [Daily - Daily Rundown for 2026-08-10](https://thechels.uk/2026-08-10-daily-rundown) - 2026-08-10
 - [Blog - What is Sequencing Risk in Early Retirement - with Practical Examples](https://thechels.uk/what-is-sequencing-risk) - 2026-08-09
@@ -15,7 +16,6 @@
 - [Blog - Cash is risky, the stock market is volatile, and why that distinction matters in 2026](https://thechels.uk/cash-is-risky-stocks-are-volatile) - 2026-08-08
 - [Daily - Daily Rundown for 2026-08-08](https://thechels.uk/2026-08-08-daily-rundown) - 2026-08-08
 - [Daily - Daily Rundown for 2026-08-07](https://thechels.uk/2026-08-07-daily-rundown) - 2026-08-07
-- [Daily - Daily Rundown for 2026-08-06](https://thechels.uk/2026-08-06-daily-rundown) - 2026-08-06
 <!-- blog ends -->
 
 ## Offers
