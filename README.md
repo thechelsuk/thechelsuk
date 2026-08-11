@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Micro - Moving from Social as a post type to Micro](https://thechels.uk/moving-from-social-as-a-post-type-to-micro) - 2026-08-11
 - [Daily - Daily Rundown for 2026-08-11](https://thechels.uk/2026-08-11-daily-rundown) - 2026-08-11
 - [Ride - Zwift - Yumezi Grit in Makuri Islands](https://thechels.uk/rides/zwift-yumezi-grit-in-makuri-islands-2201794302231789600) - 2026-08-10
 - [Release - Cheltenham Open Data Version 2.0.0](https://thechels.uk/cheltenham-open-data-release-e350ae87558b) - 2026-08-10
@@ -15,7 +16,6 @@
 - [Daily - Daily Rundown for 2026-08-10](https://thechels.uk/2026-08-10-daily-rundown) - 2026-08-10
 - [Blog - What is Sequencing Risk in Early Retirement - with Practical Examples](https://thechels.uk/what-is-sequencing-risk) - 2026-08-09
 - [Daily - Daily Rundown for 2026-08-09](https://thechels.uk/2026-08-09-daily-rundown) - 2026-08-09
-- [Blog - Cash is risky, the stock market is volatile, and why that distinction matters in 2026](https://thechels.uk/cash-is-risky-stocks-are-volatile) - 2026-08-08
 <!-- blog ends -->
 
 ## Offers
