@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Blog - The Road to FIRE - Building the ISA Bridge Apex Calculator](https://thechels.uk/fire-isa-bridge-calculator-apex) - 2026-08-11
 - [Micro - Moving from Social as a post type to Micro](https://thechels.uk/moving-from-social-as-a-post-type-to-micro) - 2026-08-11
 - [Daily - Daily Rundown for 2026-08-11](https://thechels.uk/2026-08-11-daily-rundown) - 2026-08-11
 - [Ride - Zwift - Yumezi Grit in Makuri Islands](https://thechels.uk/rides/zwift-yumezi-grit-in-makuri-islands-2201794302231789600) - 2026-08-10
@@ -15,7 +16,6 @@
 - [Blog - The Road to FIRE - Building the ISA Bridge to 58 and Finding the Apex](https://thechels.uk/the-ISA-retirement-bridge) - 2026-08-10
 - [Daily - Daily Rundown for 2026-08-10](https://thechels.uk/2026-08-10-daily-rundown) - 2026-08-10
 - [Blog - What is Sequencing Risk in Early Retirement - with Practical Examples](https://thechels.uk/what-is-sequencing-risk) - 2026-08-09
-- [Daily - Daily Rundown for 2026-08-09](https://thechels.uk/2026-08-09-daily-rundown) - 2026-08-09
 <!-- blog ends -->
 
 ## Offers
