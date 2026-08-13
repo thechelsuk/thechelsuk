@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Ways - How to switch off generative AI training on Twitch](https://thechels.uk/how-to-display-twitch-ai-training) - 2026-08-13
 - [Blog - What to do when you fill your S&S ISA in the UK in 2026?](https://thechels.uk/what-to-do-when-you-fill-your-ISA) - 2026-08-13
 - [Daily - Daily Rundown for 2026-08-13](https://thechels.uk/2026-08-13-daily-rundown) - 2026-08-13
 - [Micro - Frogs](https://thechels.uk/frogs) - 2026-08-12
@@ -15,7 +16,6 @@
 - [Ways - How to find Broken Front Matter in Jekyll Posts](https://thechels.uk/how-to-generatre-a-menu-list-from-a-collection-copy) - 2026-08-12
 - [Daily - Daily Rundown for 2026-08-12](https://thechels.uk/2026-08-12-daily-rundown) - 2026-08-12
 - [Blog - The Road to FIRE - Building the ISA Bridge Apex Calculator](https://thechels.uk/fire-isa-bridge-calculator-apex) - 2026-08-11
-- [Micro - Moving from Social as a post type to Micro](https://thechels.uk/moving-from-social-as-a-post-type-to-micro) - 2026-08-11
 <!-- blog ends -->
 
 ## Offers
