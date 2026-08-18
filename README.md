@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-08-18](https://thechels.uk/2026-08-18-daily-rundown) - 2026-08-18
 - [Ride - Zwift - Jarvis Seaside Sprint in Watopia](https://thechels.uk/rides/zwift-jarvis-seaside-sprint-in-watopia-2206868060453797888) - 2026-08-17
 - [Daily - Daily Rundown for 2026-08-17](https://thechels.uk/2026-08-17-daily-rundown) - 2026-08-17
 - [Video - Football Scores Dashboard](https://thechels.uk/video-football-scores-dashboard-f518df1a) - 2026-08-17
@@ -15,7 +16,6 @@
 - [Daily - Daily Rundown for 2026-08-15](https://thechels.uk/2026-08-15-daily-rundown) - 2026-08-15
 - [Film Review - The Man from U.N.C.L.E.](https://thechels.uk/films) - 2026-08-15
 - [Daily - Daily Rundown for 2026-08-14](https://thechels.uk/2026-08-14-daily-rundown) - 2026-08-14
-- [Release - Template - feed archiver for github Version 1.0.0](https://thechels.uk/template-feed-archiver-for-github-release-c605c41ee854) - 2026-08-13
 <!-- blog ends -->
 
 ## Offers
