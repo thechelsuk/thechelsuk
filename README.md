@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Blog - WeakNotes 2026-08-20](https://thechels.uk/weaknotes-2026-08-20) - 2026-08-20
 - [Daily - Daily Rundown for 2026-08-20](https://thechels.uk/2026-08-20-daily-rundown) - 2026-08-20
 - [Blog - Building Cheltenham Open Data - why tools beat blog posts](https://thechels.uk/cheltenham-open-data-2-0) - 2026-08-19
 - [Daily - Daily Rundown for 2026-08-19](https://thechels.uk/2026-08-19-daily-rundown) - 2026-08-19
@@ -15,7 +16,6 @@
 - [Video - Football Scores Dashboard](https://thechels.uk/video-football-scores-dashboard-f518df1a) - 2026-08-18
 - [Ride - Zwift - Jarvis Seaside Sprint in Watopia](https://thechels.uk/rides/zwift-jarvis-seaside-sprint-in-watopia-2206868060453797888) - 2026-08-17
 - [Daily - Daily Rundown for 2026-08-17](https://thechels.uk/2026-08-17-daily-rundown) - 2026-08-17
-- [Video - Football Scores Dashboard](https://thechels.uk/video-football-scores-dashboard-f518df1a) - 2026-08-17
 <!-- blog ends -->
 
 ## Offers
