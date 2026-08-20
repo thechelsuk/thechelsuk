@@ -7,6 +7,13 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Ask me anything or just say hello](https://thechels.uk/c/ama)
 - [Follow me on the usual links](https://links.thechels.uk/)
 
+## Websites
+
+- [Cheltenham Open Data, local data for local people](https://cheltenham-od.uk)
+- [Nuchronic - the webring for the chronically ill](https://nuchronic.uk)
+- [Hiyd - the Jekyll Companion App](https://hiyd.uk)
+- [thechelsuk - official website and blog](https://thechels.uk)
+
 ## Build info
 
 ![Daily Build](https://github.com/thechelsuk/thechelsuk/workflows/Daily%20Build/badge.svg)
