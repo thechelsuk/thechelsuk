@@ -8,6 +8,7 @@
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Blog - Building Cheltenham Open Data - why tools beat blog posts](https://thechels.uk/cheltenham-open-data-2-0) - 2026-08-19
 - [Daily - Daily Rundown for 2026-08-19](https://thechels.uk/2026-08-19-daily-rundown) - 2026-08-19
 - [Daily - Daily Rundown for 2026-08-18](https://thechels.uk/2026-08-18-daily-rundown) - 2026-08-18
 - [Video - Football Scores Dashboard](https://thechels.uk/video-football-scores-dashboard-f518df1a) - 2026-08-18
@@ -15,7 +16,6 @@
 - [Daily - Daily Rundown for 2026-08-17](https://thechels.uk/2026-08-17-daily-rundown) - 2026-08-17
 - [Video - Football Scores Dashboard](https://thechels.uk/video-football-scores-dashboard-f518df1a) - 2026-08-17
 - [Daily - Daily Rundown for 2026-08-16](https://thechels.uk/2026-08-16-daily-rundown) - 2026-08-16
-- [Daily - Daily Rundown for 2026-08-15](https://thechels.uk/2026-08-15-daily-rundown) - 2026-08-15
 <!-- blog ends -->
 
 ## Offers
