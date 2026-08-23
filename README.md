@@ -24,6 +24,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-08-23](https://thechels.uk/2026-08-23-daily-rundown) - 2026-08-23
 - [Daily - Daily Rundown for 2026-08-22](https://thechels.uk/2026-08-22-daily-rundown) - 2026-08-22
 - [Video - Football Scores Dashboard](https://thechels.uk/video-football-scores-dashboard-06ba82da) - 2026-08-22
 - [Video - Football Scores Dashboard 2026-08-22](https://thechels.uk/video-football-scores-dashboard-2026-08-22-7d96af76) - 2026-08-22
@@ -31,7 +32,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Video - Football Scores Dashboard](https://thechels.uk/video-football-scores-dashboard-06ba82da) - 2026-08-21
 - [Blog - WeakNotes 2026-08-20](https://thechels.uk/weaknotes-2026-08-20) - 2026-08-20
 - [Daily - Daily Rundown for 2026-08-20](https://thechels.uk/2026-08-20-daily-rundown) - 2026-08-20
-- [Blog - Building Cheltenham Open Data - why tools beat blog posts](https://thechels.uk/cheltenham-open-data-2-0) - 2026-08-19
 <!-- blog ends -->
 
 ## Offers
