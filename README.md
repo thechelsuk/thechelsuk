@@ -24,6 +24,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Mixtape - Monthly Mixtape - Aug 2026](https://thechels.uk/monthly-mixtape-aug-2026) - 2026-08-26
 - [Daily - Daily Rundown for 2026-08-26](https://thechels.uk/2026-08-26-daily-rundown) - 2026-08-26
 - [Daily - Daily Rundown for 2026-08-25](https://thechels.uk/2026-08-25-daily-rundown) - 2026-08-25
 - [Video - Cheapest fuel in town #Cheltenham by http://cheltenham-od.uk #cheltenhamtown](https://thechels.uk/video-cheapest-fuel-in-town-cheltenham-by-httpcheltenham-oduk-cheltenhamtown-5fea20e8) - 2026-08-25
@@ -31,7 +32,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Daily - Daily Rundown for 2026-08-24](https://thechels.uk/2026-08-24-daily-rundown) - 2026-08-24
 - [Daily - Daily Rundown for 2026-08-23](https://thechels.uk/2026-08-23-daily-rundown) - 2026-08-23
 - [Daily - Daily Rundown for 2026-08-22](https://thechels.uk/2026-08-22-daily-rundown) - 2026-08-22
-- [Video - Football Scores Dashboard](https://thechels.uk/video-football-scores-dashboard-06ba82da) - 2026-08-22
 <!-- blog ends -->
 
 ## Offers
