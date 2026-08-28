@@ -2,7 +2,7 @@
 
 A netizen and experienced engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced and regulated environments.
 
-Has a track record of increasing team morale and motivation through a holistic people development style, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, addressing technical debt and reducing cycle times significantly.
+Has a track record of increasing team morale and motivation through a holistic people development style, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, addressing technical debt and reducing cycle times significantly. Blogging, Streaming, Developing all on the side.
 
 - [Ask me anything or just say hello](https://thechels.uk/c/ama)
 - [Follow me on the usual links](https://links.thechels.uk/)
