@@ -24,6 +24,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-08-30](https://thechels.uk/2026-08-30-daily-rundown) - 2026-08-30
 - [Video - Football Scores Dashboard 2026-08-28](https://thechels.uk/video-football-scores-dashboard-2026-08-28-b74cf2ae) - 2026-08-29
 - [Blog - Inside a CPAD Assessment II: When an Insurer Tests Your Ability to Work with ME](https://thechels.uk/ME-what-actually-happens-in-a-CPAD-assessment-part-two) - 2026-08-28
 - [Daily - Daily Rundown for 2026-08-28](https://thechels.uk/2026-08-28-daily-rundown) - 2026-08-28
@@ -31,7 +32,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Daily - Daily Rundown for 2026-08-27](https://thechels.uk/2026-08-27-daily-rundown) - 2026-08-27
 - [Linked - Update: New domain for Sign in with Apple](https://thechels.uk/update-new-domain-for-sign-in-with-apple-latest-news-apple-developer) - 2026-08-26
 - [Linked - X Corp sends cease and desist to Nitter](https://thechels.uk/nitter-net-sent-cease-and-desist) - 2026-08-26
-- [Blog - Inside a CPAD Assessment: When an Insurer Tests Your Ability to Work with ME](https://thechels.uk/ME-what-actually-happens-in-a-CPAD-assessment) - 2026-08-26
 <!-- blog ends -->
 
 ## Offers
