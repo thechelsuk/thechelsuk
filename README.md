@@ -24,6 +24,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-09-02](https://thechels.uk/2026-09-02-daily-rundown) - 2026-09-02
 - [Daily - Daily Rundown for 2026-09-01](https://thechels.uk/2026-09-01-daily-rundown) - 2026-09-01
 - [Daily - Daily Rundown for 2026-08-31](https://thechels.uk/2026-08-31-daily-rundown) - 2026-08-31
 - [Blog - Do one thing well at a time method](https://thechels.uk/do-one-thing-well-at-a-time-method) - 2026-08-30
@@ -31,7 +32,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Video - Football Scores Dashboard 2026-08-28](https://thechels.uk/video-football-scores-dashboard-2026-08-28-b74cf2ae) - 2026-08-29
 - [Blog - Inside a CPAD Assessment II: When an Insurer Tests Your Ability to Work with ME](https://thechels.uk/ME-what-actually-happens-in-a-CPAD-assessment-part-two) - 2026-08-28
 - [Daily - Daily Rundown for 2026-08-28](https://thechels.uk/2026-08-28-daily-rundown) - 2026-08-28
-- [Video - Football Scores Dashboard 2026-08-28](https://thechels.uk/video-football-scores-dashboard-2026-08-28-b74cf2ae) - 2026-08-28
 <!-- blog ends -->
 
 ## Offers
