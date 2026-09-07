@@ -24,6 +24,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-09-07](https://thechels.uk/2026-09-07-daily-rundown) - 2026-09-07
 - [Daily - Daily Rundown for 2026-09-06](https://thechels.uk/2026-09-06-daily-rundown) - 2026-09-06
 - [Daily - Daily Rundown for 2026-09-05](https://thechels.uk/2026-09-05-daily-rundown) - 2026-09-05
 - [Daily - Daily Rundown for 2026-09-04](https://thechels.uk/2026-09-04-daily-rundown) - 2026-09-04
@@ -31,7 +32,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Linked - 1Password Supports the Ethnic Cleansing of Europe](https://thechels.uk/1password-supports-the-ethnic-cleansing-of-europe-andrew-lilley-brinker) - 2026-09-03
 - [Daily - Daily Rundown for 2026-09-02](https://thechels.uk/2026-09-02-daily-rundown) - 2026-09-02
 - [Daily - Daily Rundown for 2026-09-01](https://thechels.uk/2026-09-01-daily-rundown) - 2026-09-01
-- [Daily - Daily Rundown for 2026-08-31](https://thechels.uk/2026-08-31-daily-rundown) - 2026-08-31
 <!-- blog ends -->
 
 ## Offers
