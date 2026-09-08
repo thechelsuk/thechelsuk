@@ -25,13 +25,13 @@ Has a track record of increasing team morale and motivation through a holistic p
 
 <!-- blog starts -->
 - [Daily - Daily Rundown for 2026-09-08](https://thechels.uk/2026-09-08-daily-rundown) - 2026-09-08
+- [Video - Cheltenham Open Data - Introduction](https://thechels.uk/video-cheltenham-open-data-introduction-95d8412f) - 2026-09-08
+- [Video - Cheltenham Open Data - Local Data for Local People](https://thechels.uk/video-cheltenham-open-data-local-data-for-local-people-760cd372) - 2026-09-08
+- [Video - Cheltenham Open Data - Public Toilet Sting](https://thechels.uk/video-cheltenham-open-data-public-toilet-sting-ec20b3b3) - 2026-09-08
+- [Video - When you need to go in Cheltenham?](https://thechels.uk/video-when-you-need-to-go-in-cheltenham-8474d353) - 2026-09-08
 - [Daily - Daily Rundown for 2026-09-07](https://thechels.uk/2026-09-07-daily-rundown) - 2026-09-07
 - [Daily - Daily Rundown for 2026-09-06](https://thechels.uk/2026-09-06-daily-rundown) - 2026-09-06
 - [Daily - Daily Rundown for 2026-09-05](https://thechels.uk/2026-09-05-daily-rundown) - 2026-09-05
-- [Daily - Daily Rundown for 2026-09-04](https://thechels.uk/2026-09-04-daily-rundown) - 2026-09-04
-- [Daily - Daily Rundown for 2026-09-03](https://thechels.uk/2026-09-03-daily-rundown) - 2026-09-03
-- [Linked - 1Password Supports the Ethnic Cleansing of Europe](https://thechels.uk/1password-supports-the-ethnic-cleansing-of-europe-andrew-lilley-brinker) - 2026-09-03
-- [Daily - Daily Rundown for 2026-09-02](https://thechels.uk/2026-09-02-daily-rundown) - 2026-09-02
 <!-- blog ends -->
 
 ## Offers
