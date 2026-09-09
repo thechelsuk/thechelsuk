@@ -26,12 +26,12 @@ Has a track record of increasing team morale and motivation through a holistic p
 <!-- blog starts -->
 - [Release - Cheltenham Open Data Version 3.0.0](https://thechels.uk/cheltenham-open-data-release-bc2bd1f4b2cc) - 2026-09-08
 - [Daily - Daily Rundown for 2026-09-08](https://thechels.uk/2026-09-08-daily-rundown) - 2026-09-08
+- [Video - Cheltenham Open Data - cheltenham-od.uk](https://thechels.uk/video-cheltenham-open-data-cheltenham-oduk-40c0da18) - 2026-09-08
 - [Video - Cheltenham Open Data - Introduction](https://thechels.uk/video-cheltenham-open-data-introduction-95d8412f) - 2026-09-08
 - [Video - Cheltenham Open Data - Local Data for Local People](https://thechels.uk/video-cheltenham-open-data-local-data-for-local-people-760cd372) - 2026-09-08
 - [Video - Cheltenham Open Data - Public Toilet Sting](https://thechels.uk/video-cheltenham-open-data-public-toilet-sting-ec20b3b3) - 2026-09-08
 - [Video - When you need to go in Cheltenham?](https://thechels.uk/video-when-you-need-to-go-in-cheltenham-8474d353) - 2026-09-08
 - [Daily - Daily Rundown for 2026-09-07](https://thechels.uk/2026-09-07-daily-rundown) - 2026-09-07
-- [Daily - Daily Rundown for 2026-09-06](https://thechels.uk/2026-09-06-daily-rundown) - 2026-09-06
 <!-- blog ends -->
 
 ## Offers
