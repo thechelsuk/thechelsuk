@@ -24,6 +24,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Release - Hiyd.uk Version 2.0.0](https://thechels.uk/hiyd-uk-release-de7f33012e0c) - 2026-09-10
 - [Daily - Daily Rundown for 2026-09-10](https://thechels.uk/2026-09-10-daily-rundown) - 2026-09-10
 - [Micro - New app versions with apple](https://thechels.uk/new-app-versions-with-apple) - 2026-09-10
 - [Daily - Daily Rundown for 2026-09-09](https://thechels.uk/2026-09-09-daily-rundown) - 2026-09-09
@@ -31,7 +32,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Daily - Daily Rundown for 2026-09-08](https://thechels.uk/2026-09-08-daily-rundown) - 2026-09-08
 - [Video - Cheltenham Open Data - cheltenham-od.uk](https://thechels.uk/video-cheltenham-open-data-cheltenham-oduk-40c0da18) - 2026-09-08
 - [Video - Cheltenham Open Data - Introduction](https://thechels.uk/video-cheltenham-open-data-introduction-95d8412f) - 2026-09-08
-- [Video - Cheltenham Open Data - Local Data for Local People](https://thechels.uk/video-cheltenham-open-data-local-data-for-local-people-760cd372) - 2026-09-08
 <!-- blog ends -->
 
 ## Offers
