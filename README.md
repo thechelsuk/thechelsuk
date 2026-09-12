@@ -24,14 +24,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Release - Demarkable Version 1.0.0](https://thechels.uk/demarkable-release-v3445fsf) - 2026-09-12
+- [Release - Tomoz Version 2.0.0](https://thechels.uk/tomoz-release-vfv45ghjj-copy) - 2026-09-12
+- [Release - Shortkeys Version 1.3.0](https://thechels.uk/shortkeys-release-vfvd233sgd) - 2026-09-12
+- [Daily - Daily Rundown for 2026-09-12](https://thechels.uk/2026-09-12-daily-rundown) - 2026-09-12
+- [Release - Hiyd Version 2.1.0](https://thechels.uk/hiyd-release-dj33fd4ds) - 2026-09-12
+- [Release - EngMan Version 2.1.0](https://thechels.uk/engman-release-40a654rc734) - 2026-09-12
 - [Video - EngMan- cue cards and help frameworks for Engineering Managers, people leaders & heads](https://thechels.uk/video-engman-cue-cards-and-help-frameworks-for-engineering-managers-people-leaders-heads-a383d6ea) - 2026-09-12
 - [Video - Hiyd - the Jekyll companion app, now with push  directly to GitHub](https://thechels.uk/video-hiyd-the-jekyll-companion-app-now-with-push-directly-to-github-34d45019) - 2026-09-12
-- [Video - Mltply- the chat-like maths achievement app for kids. Open source.  On device only.](https://thechels.uk/video-mltply-the-chat-like-maths-achievement-app-for-kids-open-source-on-device-only-a3549c43) - 2026-09-12
-- [Video - Shortkeys- multi line text expander and text replacement on iOS](https://thechels.uk/video-shortkeys-multi-line-text-expander-and-text-replacement-on-ios-24087f25) - 2026-09-12
-- [Video - Tomoz - plan for tomorrow, today. New version out now](https://thechels.uk/video-tomoz-plan-for-tomorrow-today-new-version-out-now-acab0034) - 2026-09-12
-- [Release - Mltply Version 2.1.1](https://thechels.uk/mltply-release-40a78258c734) - 2026-09-11
-- [Daily - Daily Rundown for 2026-09-11](https://thechels.uk/2026-09-11-daily-rundown) - 2026-09-11
-- [Release - Hiyd.uk Version 2.0.0](https://thechels.uk/hiyd-uk-release-de7f33012e0c) - 2026-09-10
 <!-- blog ends -->
 
 ## Offers
