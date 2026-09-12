@@ -24,14 +24,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Video - EngMan- cue cards and help frameworks for Engineering Managers, people leaders & heads](https://thechels.uk/video-engman-cue-cards-and-help-frameworks-for-engineering-managers-people-leaders-heads-a383d6ea) - 2026-09-12
+- [Video - Hiyd - the Jekyll companion app, now with push  directly to GitHub](https://thechels.uk/video-hiyd-the-jekyll-companion-app-now-with-push-directly-to-github-34d45019) - 2026-09-12
+- [Video - Mltply- the chat-like maths achievement app for kids. Open source.  On device only.](https://thechels.uk/video-mltply-the-chat-like-maths-achievement-app-for-kids-open-source-on-device-only-a3549c43) - 2026-09-12
+- [Video - Shortkeys- multi line text expander and text replacement on iOS](https://thechels.uk/video-shortkeys-multi-line-text-expander-and-text-replacement-on-ios-24087f25) - 2026-09-12
+- [Video - Tomoz - plan for tomorrow, today. New version out now](https://thechels.uk/video-tomoz-plan-for-tomorrow-today-new-version-out-now-acab0034) - 2026-09-12
 - [Release - Mltply Version 2.1.1](https://thechels.uk/mltply-release-40a78258c734) - 2026-09-11
 - [Daily - Daily Rundown for 2026-09-11](https://thechels.uk/2026-09-11-daily-rundown) - 2026-09-11
 - [Release - Hiyd.uk Version 2.0.0](https://thechels.uk/hiyd-uk-release-de7f33012e0c) - 2026-09-10
-- [Daily - Daily Rundown for 2026-09-10](https://thechels.uk/2026-09-10-daily-rundown) - 2026-09-10
-- [Micro - New app versions with apple](https://thechels.uk/new-app-versions-with-apple) - 2026-09-10
-- [Video - Hey shorty, hello world](https://thechels.uk/video-hey-shorty-hello-world-5537f035) - 2026-09-10
-- [Daily - Daily Rundown for 2026-09-09](https://thechels.uk/2026-09-09-daily-rundown) - 2026-09-09
-- [Release - Cheltenham Open Data Version 3.0.0](https://thechels.uk/cheltenham-open-data-release-bc2bd1f4b2cc) - 2026-09-08
 <!-- blog ends -->
 
 ## Offers
