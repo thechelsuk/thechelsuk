@@ -24,14 +24,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Release - Shortkeys Version 1.3.1](https://thechels.uk/shortkeys-release-gnvbj4444) - 2026-09-15
+- [Release - Hiyd Version 2.1.1](https://thechels.uk/hiyd-release-jlyodfk333kdsk-copy) - 2026-09-15
 - [Daily - Daily Rundown for 2026-09-15](https://thechels.uk/2026-09-15-daily-rundown) - 2026-09-15
 - [Daily - Daily Rundown for 2026-09-14](https://thechels.uk/2026-09-14-daily-rundown) - 2026-09-14
 - [Daily - Daily Rundown for 2026-09-13](https://thechels.uk/2026-09-13-daily-rundown) - 2026-09-13
 - [Release - Demarkable Version 1.0.0](https://thechels.uk/demarkable-release-v3445fsf) - 2026-09-12
 - [Release - Tomoz Version 2.0.0](https://thechels.uk/tomoz-release-vfv45ghjj-copy) - 2026-09-12
 - [Release - Shortkeys Version 1.3.0](https://thechels.uk/shortkeys-release-vfvd233sgd) - 2026-09-12
-- [Daily - Daily Rundown for 2026-09-12](https://thechels.uk/2026-09-12-daily-rundown) - 2026-09-12
-- [Release - Hiyd Version 2.1.0](https://thechels.uk/hiyd-release-dj33fd4ds) - 2026-09-12
 <!-- blog ends -->
 
 ## Offers
