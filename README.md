@@ -24,6 +24,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-09-21](https://thechels.uk/2026-09-21-daily-rundown) - 2026-09-21
 - [Daily - Daily Rundown for 2026-09-20](https://thechels.uk/2026-09-20-daily-rundown) - 2026-09-20
 - [Daily - Daily Rundown for 2026-09-19](https://thechels.uk/2026-09-19-daily-rundown) - 2026-09-19
 - [Daily - Daily Rundown for 2026-09-18](https://thechels.uk/2026-09-18-daily-rundown) - 2026-09-18
@@ -31,7 +32,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Release - Shortkeys Version 1.3.2](https://thechels.uk/shortkeys-release-gjh65633y) - 2026-09-17
 - [Release - Mltply Version 2.1.2](https://thechels.uk/mltply-release-6cb51c4815a5) - 2026-09-17
 - [Release - Hiyd Version 2.1.2](https://thechels.uk/hiyd-release-jcdk434d34d) - 2026-09-17
-- [Release - EngMan Version 2.1.1](https://thechels.uk/engman-release-40fj43f3f356) - 2026-09-17
 <!-- blog ends -->
 
 ## Offers
