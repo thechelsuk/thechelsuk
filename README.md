@@ -25,13 +25,13 @@ Has a track record of increasing team morale and motivation through a holistic p
 
 <!-- blog starts -->
 - [Daily - Daily Rundown for 2026-09-22](https://thechels.uk/2026-09-22-daily-rundown) - 2026-09-22
+- [Video - New on Cheltenham Open Data - Ward level data! #cheltenham #cheltenhamtown](https://thechels.uk/video-new-on-cheltenham-open-data-ward-level-data-cheltenham-cheltenhamtown-7058b647) - 2026-09-22
 - [Daily - Daily Rundown for 2026-09-21](https://thechels.uk/2026-09-21-daily-rundown) - 2026-09-21
 - [Daily - Daily Rundown for 2026-09-20](https://thechels.uk/2026-09-20-daily-rundown) - 2026-09-20
 - [Daily - Daily Rundown for 2026-09-19](https://thechels.uk/2026-09-19-daily-rundown) - 2026-09-19
 - [Daily - Daily Rundown for 2026-09-18](https://thechels.uk/2026-09-18-daily-rundown) - 2026-09-18
 - [Release - Tomoz Version 2.0.1](https://thechels.uk/tomoz-release-vj43dc43fd3) - 2026-09-17
 - [Release - Shortkeys Version 1.3.2](https://thechels.uk/shortkeys-release-gjh65633y) - 2026-09-17
-- [Release - Mltply Version 2.1.2](https://thechels.uk/mltply-release-6cb51c4815a5) - 2026-09-17
 <!-- blog ends -->
 
 ## Offers
