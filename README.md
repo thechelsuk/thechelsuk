@@ -24,6 +24,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-09-24](https://thechels.uk/2026-09-24-daily-rundown) - 2026-09-24
 - [Daily - Daily Rundown for 2026-09-23](https://thechels.uk/2026-09-23-daily-rundown) - 2026-09-23
 - [Daily - Daily Rundown for 2026-09-22](https://thechels.uk/2026-09-22-daily-rundown) - 2026-09-22
 - [Video - New on Cheltenham Open Data - Ward level data! #cheltenham #cheltenhamtown](https://thechels.uk/video-new-on-cheltenham-open-data-ward-level-data-cheltenham-cheltenhamtown-7058b647) - 2026-09-22
@@ -31,7 +32,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Daily - Daily Rundown for 2026-09-20](https://thechels.uk/2026-09-20-daily-rundown) - 2026-09-20
 - [Daily - Daily Rundown for 2026-09-19](https://thechels.uk/2026-09-19-daily-rundown) - 2026-09-19
 - [Daily - Daily Rundown for 2026-09-18](https://thechels.uk/2026-09-18-daily-rundown) - 2026-09-18
-- [Release - Tomoz Version 2.0.1](https://thechels.uk/tomoz-release-vj43dc43fd3) - 2026-09-17
 <!-- blog ends -->
 
 ## Offers
