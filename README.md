@@ -24,14 +24,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Blog - Mltply workbooks are on Etsy](https://thechels.uk/etsy-shop-launched) - 2026-09-25
+- [Blog - Mltply maths workbooks](https://thechels.uk/maths-workbook-companions) - 2026-09-25
+- [Blog - The Perfect Hiring System](https://thechels.uk/the-perfect-hiring-system) - 2026-09-25
 - [Blog - I've opened a shop](https://thechels.uk/gumroad-updated) - 2026-09-25
 - [Release - Shortkeys Version 1.5.0](https://thechels.uk/shortkeys-release-17ehg942e) - 2026-09-25
 - [Release - Links Version 1.0.2](https://thechels.uk/links-release-58e212830c88) - 2026-09-24
 - [Release - Mltply Version 2.2.0](https://thechels.uk/mltply-release-17e1eaec3b4e) - 2026-09-24
 - [Daily - Daily Rundown for 2026-09-24](https://thechels.uk/2026-09-24-daily-rundown) - 2026-09-24
-- [Daily - Daily Rundown for 2026-09-23](https://thechels.uk/2026-09-23-daily-rundown) - 2026-09-23
-- [Daily - Daily Rundown for 2026-09-22](https://thechels.uk/2026-09-22-daily-rundown) - 2026-09-22
-- [Video - New on Cheltenham Open Data - Ward level data! #cheltenham #cheltenhamtown](https://thechels.uk/video-new-on-cheltenham-open-data-ward-level-data-cheltenham-cheltenhamtown-7058b647) - 2026-09-22
 <!-- blog ends -->
 
 ## Offers
