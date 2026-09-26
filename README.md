@@ -24,14 +24,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-09-26](https://thechels.uk/2026-09-26-daily-rundown) - 2026-09-26
+- [Video - UK Money Checklist & Planner 2026/27: Budget, Emergency Fund, Debt, ISA and Pension Trackers](https://thechels.uk/video-uk-money-checklist-planner-202627-budget-emergency-fund-debt-isa-and-pension-trackers-f3578126) - 2026-09-26
+- [Video - UK Money Checklist #shorts](https://thechels.uk/video-uk-money-checklist-shorts-29acdec9) - 2026-09-26
+- [Video - Welcome to thechelsuk: printables, apps, guides, and more. Made in the UK](https://thechels.uk/video-welcome-to-thechelsuk-printables-apps-guides-and-more-made-in-the-uk-925ea42a) - 2026-09-26
 - [Daily - Daily Rundown for 2026-09-25](https://thechels.uk/2026-09-25-daily-rundown) - 2026-09-25
 - [Blog - Mltply workbooks are on Etsy](https://thechels.uk/etsy-shop-launched) - 2026-09-25
 - [Blog - Mltply maths workbooks](https://thechels.uk/maths-workbook-companions) - 2026-09-25
 - [Blog - The Perfect Hiring System](https://thechels.uk/the-perfect-hiring-system) - 2026-09-25
-- [Blog - I've opened a shop](https://thechels.uk/gumroad-updated) - 2026-09-25
-- [Release - Shortkeys Version 1.5.0](https://thechels.uk/shortkeys-release-17ehg942e) - 2026-09-25
-- [Release - Links Version 1.0.2](https://thechels.uk/links-release-58e212830c88) - 2026-09-24
-- [Release - Mltply Version 2.2.0](https://thechels.uk/mltply-release-17e1eaec3b4e) - 2026-09-24
 <!-- blog ends -->
 
 ## Offers
