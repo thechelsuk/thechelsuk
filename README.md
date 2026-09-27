@@ -24,6 +24,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-09-27](https://thechels.uk/2026-09-27-daily-rundown) - 2026-09-27
 - [Release - NNW Theme Bundle Version v3.0.0](https://thechels.uk/nnw-theme-bundle-release-f3749adf9d58) - 2026-09-27
 - [Release - Embed @ thechels.uk - YouTube referrer for NetNewsWire Themes Version 1.0.0](https://thechels.uk/embed-thechels-uk-youtube-referrer-for-netnewswire-themes-release-c38ec07cbd35) - 2026-09-27
 - [Release - Embed @ thechelsuk - YouTube referrer for NetNewsWire Themes Version 1.0.0](https://thechels.uk/embed-thechelsuk-youtube-referrer-for-netnewswire-themes-release-373c34ff9b7f) - 2026-09-27
@@ -31,7 +32,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Video - CV review #shorts](https://thechels.uk/video-cv-review-shorts-3654f62a) - 2026-09-27
 - [Daily - Daily Rundown for 2026-09-26](https://thechels.uk/2026-09-26-daily-rundown) - 2026-09-26
 - [Film Review - Unabomber](https://thechels.uk/films) - 2026-09-26
-- [Video - UK Money Checklist & Planner 2026/27](https://thechels.uk/video-uk-money-checklist-planner-202627-d-f3578126) - 2026-09-26
 <!-- blog ends -->
 
 ## Offers
