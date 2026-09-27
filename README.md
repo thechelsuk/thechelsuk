@@ -24,14 +24,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Release - NNW Theme Bundle Version v3.0.0](https://thechels.uk/nnw-theme-bundle-release-f3749adf9d58) - 2026-09-27
+- [Release - Embed @ thechels.uk - YouTube referrer for NetNewsWire Themes Version 1.0.0](https://thechels.uk/embed-thechels-uk-youtube-referrer-for-netnewswire-themes-release-c38ec07cbd35) - 2026-09-27
+- [Release - Embed @ thechelsuk - YouTube referrer for NetNewsWire Themes Version 1.0.0](https://thechels.uk/embed-thechelsuk-youtube-referrer-for-netnewswire-themes-release-373c34ff9b7f) - 2026-09-27
+- [Video - CV Review for Software Engineers: an Hour of Written Feedback from a Hiring Manager](https://thechels.uk/video-cv-review-for-software-engineers-an-hour-of-written-feedback-from-a-hiring-manager-d3fd7ea6) - 2026-09-27
+- [Video - CV review #shorts](https://thechels.uk/video-cv-review-shorts-3654f62a) - 2026-09-27
 - [Daily - Daily Rundown for 2026-09-26](https://thechels.uk/2026-09-26-daily-rundown) - 2026-09-26
 - [Film Review - Unabomber](https://thechels.uk/films) - 2026-09-26
-- [Video - UK Money Checklist & Planner 2026/27: Budget, Emergency Fund, Debt, ISA and Pension Trackers](https://thechels.uk/video-uk-money-checklist-planner-202627-budget-emergency-fund-debt-isa-and-pension-trackers-f3578126) - 2026-09-26
-- [Video - UK Money Checklist #shorts](https://thechels.uk/video-uk-money-checklist-shorts-29acdec9) - 2026-09-26
-- [Video - Welcome to thechelsuk: printables, apps, guides, and more. Made in the UK](https://thechels.uk/video-welcome-to-thechelsuk-printables-apps-guides-and-more-made-in-the-uk-925ea42a) - 2026-09-26
-- [Daily - Daily Rundown for 2026-09-25](https://thechels.uk/2026-09-25-daily-rundown) - 2026-09-25
-- [Blog - Mltply workbooks are on Etsy](https://thechels.uk/etsy-shop-launched) - 2026-09-25
-- [Blog - Mltply maths workbooks](https://thechels.uk/maths-workbook-companions) - 2026-09-25
+- [Video - UK Money Checklist & Planner 2026/27](https://thechels.uk/video-uk-money-checklist-planner-202627-d-f3578126) - 2026-09-26
 <!-- blog ends -->
 
 ## Offers
