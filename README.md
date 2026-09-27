@@ -25,13 +25,13 @@ Has a track record of increasing team morale and motivation through a holistic p
 
 <!-- blog starts -->
 - [Daily - Daily Rundown for 2026-09-26](https://thechels.uk/2026-09-26-daily-rundown) - 2026-09-26
+- [Film Review - Unabomber](https://thechels.uk/films) - 2026-09-26
 - [Video - UK Money Checklist & Planner 2026/27: Budget, Emergency Fund, Debt, ISA and Pension Trackers](https://thechels.uk/video-uk-money-checklist-planner-202627-budget-emergency-fund-debt-isa-and-pension-trackers-f3578126) - 2026-09-26
 - [Video - UK Money Checklist #shorts](https://thechels.uk/video-uk-money-checklist-shorts-29acdec9) - 2026-09-26
 - [Video - Welcome to thechelsuk: printables, apps, guides, and more. Made in the UK](https://thechels.uk/video-welcome-to-thechelsuk-printables-apps-guides-and-more-made-in-the-uk-925ea42a) - 2026-09-26
 - [Daily - Daily Rundown for 2026-09-25](https://thechels.uk/2026-09-25-daily-rundown) - 2026-09-25
 - [Blog - Mltply workbooks are on Etsy](https://thechels.uk/etsy-shop-launched) - 2026-09-25
 - [Blog - Mltply maths workbooks](https://thechels.uk/maths-workbook-companions) - 2026-09-25
-- [Blog - The Perfect Hiring System](https://thechels.uk/the-perfect-hiring-system) - 2026-09-25
 <!-- blog ends -->
 
 ## Offers
