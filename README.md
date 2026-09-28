@@ -24,14 +24,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-09-28](https://thechels.uk/2026-09-28-daily-rundown) - 2026-09-28
+- [Video - Maths Workbook Bundle: 5 Printable Workbooks for Years 1–7 (UK) | Mltply](https://thechels.uk/video-maths-workbook-bundle-5-printable-workbooks-for-years-17-uk-mltply-5f1d9694) - 2026-09-28
+- [Video - Maths Workbook Bundle #shorts](https://thechels.uk/video-maths-workbook-bundle-shorts-fda19ccd) - 2026-09-28
 - [Blog - WeakNotes 2026-09-27](https://thechels.uk/weaknotes-2026-09-27) - 2026-09-27
 - [Daily - Daily Rundown for 2026-09-27](https://thechels.uk/2026-09-27-daily-rundown) - 2026-09-27
 - [Release - NNW Theme Bundle Version v3.0.0](https://thechels.uk/nnw-theme-bundle-release-f3749adf9d58) - 2026-09-27
 - [Release - Embed @ thechelsuk - YouTube referrer for NetNewsWire Themes Version 1.0.0](https://thechels.uk/embed-thechelsuk-youtube-referrer-for-netnewswire-themes-release-373c34ff9b7f) - 2026-09-27
 - [Mixtape - Monthly Mixtape - Sep 2026](https://thechels.uk/music-mixtape-sept-2026) - 2026-09-27
-- [Video - CV Review for Software Engineers: an Hour of Written Feedback from a Hiring Manager](https://thechels.uk/video-cv-review-for-software-engineers-an-hour-of-written-feedback-from-a-hiring-manager-d3fd7ea6) - 2026-09-27
-- [Video - CV review #shorts](https://thechels.uk/video-cv-review-shorts-3654f62a) - 2026-09-27
-- [Daily - Daily Rundown for 2026-09-26](https://thechels.uk/2026-09-26-daily-rundown) - 2026-09-26
 <!-- blog ends -->
 
 ## Offers
