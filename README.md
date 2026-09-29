@@ -24,14 +24,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Release - Homebridge (YSA2) Yale Alarm Version v2.5.0](https://thechels.uk/homebridge-ysa2-yale-alarm-release-713c4ab4dba8) - 2026-09-29
+- [Daily - Daily Rundown for 2026-09-29](https://thechels.uk/2026-09-29-daily-rundown) - 2026-09-29
 - [Daily - Daily Rundown for 2026-09-28](https://thechels.uk/2026-09-28-daily-rundown) - 2026-09-28
 - [Video - Maths Workbook Bundle: 5 Printable Workbooks for Years 1–7 (UK) | Mltply](https://thechels.uk/video-maths-workbook-bundle-5-printable-workbooks-for-years-17-uk-mltply-5f1d9694) - 2026-09-28
 - [Video - Maths Workbook Bundle #shorts](https://thechels.uk/video-maths-workbook-bundle-shorts-fda19ccd) - 2026-09-28
 - [Blog - WeakNotes 2026-09-27](https://thechels.uk/weaknotes-2026-09-27) - 2026-09-27
 - [Daily - Daily Rundown for 2026-09-27](https://thechels.uk/2026-09-27-daily-rundown) - 2026-09-27
 - [Release - NNW Theme Bundle Version v3.0.0](https://thechels.uk/nnw-theme-bundle-release-f3749adf9d58) - 2026-09-27
-- [Release - Embed @ thechelsuk - YouTube referrer for NetNewsWire Themes Version 1.0.0](https://thechels.uk/embed-thechelsuk-youtube-referrer-for-netnewswire-themes-release-373c34ff9b7f) - 2026-09-27
-- [Mixtape - Monthly Mixtape - Sep 2026](https://thechels.uk/music-mixtape-sept-2026) - 2026-09-27
 <!-- blog ends -->
 
 ## Offers
