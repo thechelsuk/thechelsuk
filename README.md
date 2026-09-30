@@ -1,3 +1,6 @@
+![banner.png](/banner.png)
+
+
 # Hello, hello
 
 A netizen and experienced engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced and regulated environments.
