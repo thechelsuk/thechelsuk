@@ -24,6 +24,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Release - NNW Theme Bundle Version v3.1.0](https://thechels.uk/nnw-theme-bundle-release-33b8f5c881c2) - 2026-09-30
 - [Daily - Daily Rundown for 2026-09-30](https://thechels.uk/2026-09-30-daily-rundown) - 2026-09-30
 - [Video - Activity & Pacing Diary: 4-Week Hour-by-Hour Tracker for ME/CFS](https://thechels.uk/video-activity-pacing-diary-4-week-hour-by-hour-tracker-for-mecfs-352348e6) - 2026-09-30
 - [Video - Activity & Pacing Diary #shorts](https://thechels.uk/video-activity-pacing-diary-shorts-da36e042) - 2026-09-30
@@ -31,7 +32,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Daily - Daily Rundown for 2026-09-29](https://thechels.uk/2026-09-29-daily-rundown) - 2026-09-29
 - [Daily - Daily Rundown for 2026-09-28](https://thechels.uk/2026-09-28-daily-rundown) - 2026-09-28
 - [Video - Maths Workbook Bundle: 5 Printable Workbooks for Years 1–7 (UK) | Mltply](https://thechels.uk/video-maths-workbook-bundle-5-printable-workbooks-for-years-17-uk-mltply-5f1d9694) - 2026-09-28
-- [Video - Maths Workbook Bundle #shorts](https://thechels.uk/video-maths-workbook-bundle-shorts-fda19ccd) - 2026-09-28
 <!-- blog ends -->
 
 ## Offers
