@@ -27,6 +27,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-10-01](https://thechels.uk/2026-10-01-daily-rundown) - 2026-10-01
 - [Video - Interview Prep Guide for Software Engineers](https://thechels.uk/video-interview-prep-guide-for-software-engineers-edd490c6) - 2026-10-01
 - [Video - Interview Prep Guide #shorts](https://thechels.uk/video-interview-prep-guide-shorts-47014120) - 2026-10-01
 - [Release - NNW Theme Bundle Version v3.1.0](https://thechels.uk/nnw-theme-bundle-release-33b8f5c881c2) - 2026-09-30
@@ -34,7 +35,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Video - Activity & Pacing Diary: 4-Week Hour-by-Hour Tracker for ME/CFS](https://thechels.uk/video-activity-pacing-diary-4-week-hour-by-hour-tracker-for-mecfs-352348e6) - 2026-09-30
 - [Video - Activity & Pacing Diary #shorts](https://thechels.uk/video-activity-pacing-diary-shorts-da36e042) - 2026-09-30
 - [Release - Homebridge (YSA2) Yale Alarm Version v2.5.0](https://thechels.uk/homebridge-ysa2-yale-alarm-release-713c4ab4dba8) - 2026-09-29
-- [Daily - Daily Rundown for 2026-09-29](https://thechels.uk/2026-09-29-daily-rundown) - 2026-09-29
 <!-- blog ends -->
 
 ## Offers
