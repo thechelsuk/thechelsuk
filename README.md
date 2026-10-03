@@ -27,6 +27,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-10-03](https://thechels.uk/2026-10-03-daily-rundown) - 2026-10-03
 - [Video - SATs Arithmetic: Practice Papers for Year 6 (UK) | Mltply](https://thechels.uk/video-sats-arithmetic-practice-papers-for-year-6-uk-mltply-0b2812f0) - 2026-10-03
 - [Video - SATs Arithmetic #shortsshort](https://thechels.uk/video-sats-arithmetic-shortsshort-f3550a38) - 2026-10-03
 - [Daily - Daily Rundown for 2026-10-02](https://thechels.uk/2026-10-02-daily-rundown) - 2026-10-02
@@ -34,7 +35,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Video - One-to-One & Coaching Toolkit #shorts](https://thechels.uk/video-one-to-one-coaching-toolkit-shorts-a73f2561) - 2026-10-02
 - [Daily - Daily Rundown for 2026-10-01](https://thechels.uk/2026-10-01-daily-rundown) - 2026-10-01
 - [Video - Interview Prep Guide for Software Engineers](https://thechels.uk/video-interview-prep-guide-for-software-engineers-edd490c6) - 2026-10-01
-- [Video - Interview Prep Guide #shorts](https://thechels.uk/video-interview-prep-guide-shorts-47014120) - 2026-10-01
 <!-- blog ends -->
 
 ## Offers
