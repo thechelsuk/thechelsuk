@@ -28,13 +28,13 @@ Has a track record of increasing team morale and motivation through a holistic p
 
 <!-- blog starts -->
 - [Daily - Daily Rundown for 2026-10-03](https://thechels.uk/2026-10-03-daily-rundown) - 2026-10-03
+- [Release - ShortKeys @ thechelsuk - iOS app marketing site Version 1.0.0](https://thechels.uk/shortkeys-thechelsuk-ios-app-marketing-site-release-7412941a41d7) - 2026-10-03
+- [Release - Tomoz @ thechelsuk - iOS app marketing site Version 1.0.0](https://thechels.uk/tomoz-thechelsuk-ios-app-marketing-site-release-c3d2c5b1684f) - 2026-10-03
 - [Video - SATs Arithmetic: Practice Papers for Year 6 (UK) | Mltply](https://thechels.uk/video-sats-arithmetic-practice-papers-for-year-6-uk-mltply-0b2812f0) - 2026-10-03
 - [Video - SATs Arithmetic #shortsshort](https://thechels.uk/video-sats-arithmetic-shortsshort-f3550a38) - 2026-10-03
 - [Daily - Daily Rundown for 2026-10-02](https://thechels.uk/2026-10-02-daily-rundown) - 2026-10-02
 - [Video - One-to-One & Coaching Toolkit for Engineering Managers](https://thechels.uk/video-one-to-one-coaching-toolkit-for-engineering-managers-803350d6) - 2026-10-02
 - [Video - One-to-One & Coaching Toolkit #shorts](https://thechels.uk/video-one-to-one-coaching-toolkit-shorts-a73f2561) - 2026-10-02
-- [Daily - Daily Rundown for 2026-10-01](https://thechels.uk/2026-10-01-daily-rundown) - 2026-10-01
-- [Video - Interview Prep Guide for Software Engineers](https://thechels.uk/video-interview-prep-guide-for-software-engineers-edd490c6) - 2026-10-01
 <!-- blog ends -->
 
 ## Offers
