@@ -27,14 +27,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-10-04](https://thechels.uk/2026-10-04-daily-rundown) - 2026-10-04
+- [Video - Times Tables 2 to 12: Printable Workbook for Years 2–4 (UK) | Mltply](https://thechels.uk/video-times-tables-2-to-12-printable-workbook-for-years-24-uk-mltply-e89a4ccb) - 2026-10-04
+- [Video - Times Tables 2 to 12 #shorts](https://thechels.uk/video-times-tables-2-to-12-shorts-343251a0) - 2026-10-04
 - [Daily - Daily Rundown for 2026-10-03](https://thechels.uk/2026-10-03-daily-rundown) - 2026-10-03
 - [Release - ShortKeys @ thechelsuk - iOS app marketing site Version 1.0.0](https://thechels.uk/shortkeys-thechelsuk-ios-app-marketing-site-release-7412941a41d7) - 2026-10-03
 - [Release - Tomoz @ thechelsuk - iOS app marketing site Version 1.0.0](https://thechels.uk/tomoz-thechelsuk-ios-app-marketing-site-release-c3d2c5b1684f) - 2026-10-03
 - [Video - SATs Arithmetic: Practice Papers for Year 6 (UK) | Mltply](https://thechels.uk/video-sats-arithmetic-practice-papers-for-year-6-uk-mltply-0b2812f0) - 2026-10-03
 - [Video - SATs Arithmetic #shortsshort](https://thechels.uk/video-sats-arithmetic-shortsshort-f3550a38) - 2026-10-03
-- [Daily - Daily Rundown for 2026-10-02](https://thechels.uk/2026-10-02-daily-rundown) - 2026-10-02
-- [Video - One-to-One & Coaching Toolkit for Engineering Managers](https://thechels.uk/video-one-to-one-coaching-toolkit-for-engineering-managers-803350d6) - 2026-10-02
-- [Video - One-to-One & Coaching Toolkit #shorts](https://thechels.uk/video-one-to-one-coaching-toolkit-shorts-a73f2561) - 2026-10-02
 <!-- blog ends -->
 
 ## Offers
