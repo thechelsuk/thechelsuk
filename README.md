@@ -27,6 +27,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-10-05](https://thechels.uk/2026-10-05-daily-rundown) - 2026-10-05
 - [Video - Squares, Cubes & Roots: Printable Workbook for Years 5–7 (UK) | Mltply](https://thechels.uk/video-squares-cubes-roots-printable-workbook-for-years-57-uk-mltply-d2afa6f4) - 2026-10-05
 - [Video - Squares, Cubes & Roots #shorts](https://thechels.uk/video-squares-cubes-roots-shorts-3d462eec) - 2026-10-05
 - [Daily - Daily Rundown for 2026-10-04](https://thechels.uk/2026-10-04-daily-rundown) - 2026-10-04
@@ -34,7 +35,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Video - Times Tables 2 to 12 #shorts](https://thechels.uk/video-times-tables-2-to-12-shorts-343251a0) - 2026-10-04
 - [Daily - Daily Rundown for 2026-10-03](https://thechels.uk/2026-10-03-daily-rundown) - 2026-10-03
 - [Release - ShortKeys @ thechelsuk - iOS app marketing site Version 1.0.0](https://thechels.uk/shortkeys-thechelsuk-ios-app-marketing-site-release-7412941a41d7) - 2026-10-03
-- [Release - Tomoz @ thechelsuk - iOS app marketing site Version 1.0.0](https://thechels.uk/tomoz-thechelsuk-ios-app-marketing-site-release-c3d2c5b1684f) - 2026-10-03
 <!-- blog ends -->
 
 ## Offers
