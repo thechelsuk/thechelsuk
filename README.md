@@ -27,14 +27,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Video - Division 2 to 12: Printable Workbook for Years 2–4 (UK) | Mltply](https://thechels.uk/video-division-2-to-12-printable-workbook-for-years-24-uk-mltply-532dd07b) - 2026-10-07
+- [Video - Division 2 to 12 #shorts](https://thechels.uk/video-division-2-to-12-shorts-49066a62) - 2026-10-07
 - [Daily - Daily Rundown for 2026-10-06](https://thechels.uk/2026-10-06-daily-rundown) - 2026-10-06
 - [Video - Fractions: Printable Workbook for Years 1–5 (UK) | Mltply](https://thechels.uk/video-fractions-printable-workbook-for-years-15-uk-mltply-a6920b41) - 2026-10-06
 - [Video - Fractions #shorts](https://thechels.uk/video-fractions-shorts-49bde97d) - 2026-10-06
 - [Video - New me/cfs symptom tracker out now](https://thechels.uk/video-new-mecfs-symptom-tracker-out-now-064bcd50) - 2026-10-06
 - [Daily - Daily Rundown for 2026-10-05](https://thechels.uk/2026-10-05-daily-rundown) - 2026-10-05
 - [Video - Squares, Cubes & Roots: Printable Workbook for Years 5–7 (UK) | Mltply](https://thechels.uk/video-squares-cubes-roots-printable-workbook-for-years-57-uk-mltply-d2afa6f4) - 2026-10-05
-- [Video - Squares, Cubes & Roots #shorts](https://thechels.uk/video-squares-cubes-roots-shorts-3d462eec) - 2026-10-05
-- [Daily - Daily Rundown for 2026-10-04](https://thechels.uk/2026-10-04-daily-rundown) - 2026-10-04
 <!-- blog ends -->
 
 ## Offers
