@@ -29,12 +29,12 @@ Has a track record of increasing team morale and motivation through a holistic p
 <!-- blog starts -->
 - [Video - Addition & Subtraction: Printable Workbook for Years 1–3 (UK) | Mltply](https://thechels.uk/video-addition-subtraction-printable-workbook-for-years-13-uk-mltply-4ab4ce44) - 2026-10-08
 - [Video - Addition & Subtraction #shorts](https://thechels.uk/video-addition-subtraction-shorts-3e10f289) - 2026-10-08
+- [Video - Cheltenham Open Data Sting](https://thechels.uk/video-cheltenham-open-data-sting-3a14f42b) - 2026-10-08
 - [Daily - Daily Rundown for 2026-10-07](https://thechels.uk/2026-10-07-daily-rundown) - 2026-10-07
 - [Film Review - Godzilla X Kong: The New Empire](https://thechels.uk/films) - 2026-10-07
 - [Video - Division 2 to 12: Printable Workbook for Years 2–4 (UK) | Mltply](https://thechels.uk/video-division-2-to-12-printable-workbook-for-years-24-uk-mltply-532dd07b) - 2026-10-07
 - [Video - Division 2 to 12 #shorts](https://thechels.uk/video-division-2-to-12-shorts-49066a62) - 2026-10-07
 - [Daily - Daily Rundown for 2026-10-06](https://thechels.uk/2026-10-06-daily-rundown) - 2026-10-06
-- [Video - Fractions: Printable Workbook for Years 1–5 (UK) | Mltply](https://thechels.uk/video-fractions-printable-workbook-for-years-15-uk-mltply-a6920b41) - 2026-10-06
 <!-- blog ends -->
 
 ## Offers
