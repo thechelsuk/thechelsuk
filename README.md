@@ -27,14 +27,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-10-09](https://thechels.uk/2026-10-09-daily-rundown) - 2026-10-09
+- [Video - How to Ensemble #shorts](https://thechels.uk/video-how-to-ensemble-shorts-a3d3994d) - 2026-10-09
+- [Video - How to Ensemble: Software Development Better Together (Mob Programming Book)](https://thechels.uk/video-how-to-ensemble-software-development-better-together-mob-programming-book-3aba8a2c) - 2026-10-09
 - [Daily - Daily Rundown for 2026-10-08](https://thechels.uk/2026-10-08-daily-rundown) - 2026-10-08
 - [Video - Addition & Subtraction: Printable Workbook for Years 1–3 (UK) | Mltply](https://thechels.uk/video-addition-subtraction-printable-workbook-for-years-13-uk-mltply-4ab4ce44) - 2026-10-08
 - [Video - Addition & Subtraction #shorts](https://thechels.uk/video-addition-subtraction-shorts-3e10f289) - 2026-10-08
 - [Video - Cheltenham Open Data Sting](https://thechels.uk/video-cheltenham-open-data-sting-3a14f42b) - 2026-10-08
 - [Daily - Daily Rundown for 2026-10-07](https://thechels.uk/2026-10-07-daily-rundown) - 2026-10-07
-- [Film Review - Godzilla X Kong: The New Empire](https://thechels.uk/films) - 2026-10-07
-- [Video - Division 2 to 12: Printable Workbook for Years 2–4 (UK) | Mltply](https://thechels.uk/video-division-2-to-12-printable-workbook-for-years-24-uk-mltply-532dd07b) - 2026-10-07
-- [Video - Division 2 to 12 #shorts](https://thechels.uk/video-division-2-to-12-shorts-49066a62) - 2026-10-07
 <!-- blog ends -->
 
 ## Offers
