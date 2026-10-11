@@ -28,13 +28,13 @@ Has a track record of increasing team morale and motivation through a holistic p
 
 <!-- blog starts -->
 - [Daily - Daily Rundown for 2026-10-10](https://thechels.uk/2026-10-10-daily-rundown) - 2026-10-10
+- [Film Review - The Creator](https://thechels.uk/films) - 2026-10-10
 - [Video - cheltenham A&E waiting times](https://thechels.uk/video-cheltenham-ae-waiting-times-43fcabb2) - 2026-10-10
 - [Daily - Daily Rundown for 2026-10-09](https://thechels.uk/2026-10-09-daily-rundown) - 2026-10-09
 - [Film Review - Kraven the Hunter](https://thechels.uk/films) - 2026-10-09
 - [Video - How to Ensemble #shorts](https://thechels.uk/video-how-to-ensemble-shorts-a3d3994d) - 2026-10-09
 - [Video - How to Ensemble: Software Development Better Together (Mob Programming Book)](https://thechels.uk/video-how-to-ensemble-software-development-better-together-mob-programming-book-3aba8a2c) - 2026-10-09
 - [Daily - Daily Rundown for 2026-10-08](https://thechels.uk/2026-10-08-daily-rundown) - 2026-10-08
-- [Video - Addition & Subtraction: Printable Workbook for Years 1–3 (UK) | Mltply](https://thechels.uk/video-addition-subtraction-printable-workbook-for-years-13-uk-mltply-4ab4ce44) - 2026-10-08
 <!-- blog ends -->
 
 ## Offers
