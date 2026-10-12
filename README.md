@@ -27,6 +27,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-10-12](https://thechels.uk/2026-10-12-daily-rundown) - 2026-10-12
 - [Daily - Daily Rundown for 2026-10-11](https://thechels.uk/2026-10-11-daily-rundown) - 2026-10-11
 - [Video - Christmas Maths Pack: Activity Pack for Years 1–4 (UK) | Mltply](https://thechels.uk/video-christmas-maths-pack-activity-pack-for-years-14-uk-mltply-080f4972) - 2026-10-11
 - [Video - Christmas Maths Pack #shorts #christmas #maths #worksheets, #colour #number #maths #advent #mltply](https://thechels.uk/video-christmas-maths-pack-shorts-christmas-maths-worksheets-colour-number-maths-advent-mltply-b01e8f92) - 2026-10-11
@@ -34,7 +35,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Film Review - The Creator](https://thechels.uk/films) - 2026-10-10
 - [Video - cheltenham A&E waiting times](https://thechels.uk/video-cheltenham-ae-waiting-times-43fcabb2) - 2026-10-10
 - [Daily - Daily Rundown for 2026-10-09](https://thechels.uk/2026-10-09-daily-rundown) - 2026-10-09
-- [Film Review - Kraven the Hunter](https://thechels.uk/films) - 2026-10-09
 <!-- blog ends -->
 
 ## Offers
