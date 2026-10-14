@@ -27,6 +27,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Blog - I Built a Free Open Data Site for My Town](https://thechels.uk/i-built-a-free-open-data-site-for-cheltenham) - 2026-10-14
 - [Release - Mltply Version v202701.3](https://thechels.uk/mltply-release-cd059f1dc403) - 2026-10-14
 - [Release - Mltply Version v202701.2](https://thechels.uk/mltply-release-b0e88b310f8e) - 2026-10-13
 - [Daily - Daily Rundown for 2026-10-13](https://thechels.uk/2026-10-13-daily-rundown) - 2026-10-13
@@ -34,7 +35,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Daily - Daily Rundown for 2026-10-11](https://thechels.uk/2026-10-11-daily-rundown) - 2026-10-11
 - [Video - Christmas Maths Pack: Activity Pack for Years 1–4 (UK) | Mltply](https://thechels.uk/video-christmas-maths-pack-activity-pack-for-years-14-uk-mltply-080f4972) - 2026-10-11
 - [Video - Christmas Maths Pack #shorts #christmas #maths #worksheets, #colour #number #maths #advent #mltply](https://thechels.uk/video-christmas-maths-pack-shorts-christmas-maths-worksheets-colour-number-maths-advent-mltply-b01e8f92) - 2026-10-11
-- [Daily - Daily Rundown for 2026-10-10](https://thechels.uk/2026-10-10-daily-rundown) - 2026-10-10
 <!-- blog ends -->
 
 ## Offers
