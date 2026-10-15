@@ -27,14 +27,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-10-15](https://thechels.uk/2026-10-15-daily-rundown) - 2026-10-15
 - [Release - Homebridge (YSA2) Yale Alarm Version v2.5.1](https://thechels.uk/homebridge-ysa2-yale-alarm-release-8d10059d5629) - 2026-10-14
 - [Blog - Unsettled App Launched](https://thechels.uk/unsettled-app-launched) - 2026-10-14
 - [Daily - Daily Rundown for 2026-10-14](https://thechels.uk/2026-10-14-daily-rundown) - 2026-10-14
 - [Blog - I Built a Free Open Data Site for My Town](https://thechels.uk/i-built-a-free-open-data-site-for-cheltenham) - 2026-10-14
 - [Release - Mltply Version v202701.3](https://thechels.uk/mltply-release-cd059f1dc403) - 2026-10-14
+- [Video - Unsettled, Out now most people cannot get to chapter 2](https://thechels.uk/video-unsettled-out-now-most-people-cannot-get-to-chapter-2-08281dbf) - 2026-10-14
 - [Release - Mltply Version v202701.2](https://thechels.uk/mltply-release-b0e88b310f8e) - 2026-10-13
-- [Daily - Daily Rundown for 2026-10-13](https://thechels.uk/2026-10-13-daily-rundown) - 2026-10-13
-- [Daily - Daily Rundown for 2026-10-12](https://thechels.uk/2026-10-12-daily-rundown) - 2026-10-12
 <!-- blog ends -->
 
 ## Offers
