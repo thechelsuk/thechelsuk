@@ -27,14 +27,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Linked - Drafts Adds a Chat Console and Better Dictation](https://thechels.uk/drafts-adds-a-chat-console-and-better-dictation) - 2026-10-18
+- [Release - NNW Theme Bundle Version v3.2.1](https://thechels.uk/nnw-theme-bundle-release-226e55970c5b) - 2026-10-17
 - [Release - NNW Theme Bundle Version v3.1.1](https://thechels.uk/nnw-theme-bundle-release-902ec6f61e2b) - 2026-10-17
 - [Daily - Daily Rundown for 2026-10-17](https://thechels.uk/2026-10-17-daily-rundown) - 2026-10-17
 - [Linked - Reddit to Remove RSS](https://thechels.uk/reddit-to-remove-rss) - 2026-10-16
 - [Daily - Daily Rundown for 2026-10-16](https://thechels.uk/2026-10-16-daily-rundown) - 2026-10-16
 - [Blog - The Paper Tools That Helped Me Pace With ME/CFS](https://thechels.uk/the-paper-tools-that-helped-me-pace) - 2026-10-16
 - [Daily - Daily Rundown for 2026-10-15](https://thechels.uk/2026-10-15-daily-rundown) - 2026-10-15
-- [Release - Homebridge (YSA2) Yale Alarm Version v2.5.1](https://thechels.uk/homebridge-ysa2-yale-alarm-release-8d10059d5629) - 2026-10-14
-- [Blog - Unsettled App Launched](https://thechels.uk/unsettled-app-launched) - 2026-10-14
 <!-- blog ends -->
 
 ## Offers
