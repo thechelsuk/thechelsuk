@@ -32,9 +32,9 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Release - Mltply @ thechelsuk - iOS app marketing site Version v1.0.0](https://thechels.uk/mltply-thechelsuk-ios-app-marketing-site-release-6fbc23b33b2d) - 2026-10-19
 - [Release - EngMan @ thechelsuk - iOS app marketing site Version v1.0.0](https://thechels.uk/engman-thechelsuk-ios-app-marketing-site-release-c252f4a253bb) - 2026-10-19
 - [Daily - Daily Rundown for 2026-10-19](https://thechels.uk/2026-10-19-daily-rundown) - 2026-10-19
+- [Video - Launched: Lansdown Foundry - draw and design fonts](https://thechels.uk/video-launched-lansdown-foundry-draw-and-design-fonts-bf90f376) - 2026-10-19
 - [Daily - Daily Rundown for 2026-10-18](https://thechels.uk/2026-10-18-daily-rundown) - 2026-10-18
 - [Blog - Seven One-to-One Questions That Go Deeper Than "How's It Going?"](https://thechels.uk/one-to-one-questions-that-go-deeper) - 2026-10-18
-- [Linked - Drafts Adds a Chat Console and Better Dictation](https://thechels.uk/drafts-adds-a-chat-console-and-better-dictation) - 2026-10-18
 <!-- blog ends -->
 
 ## Offers
