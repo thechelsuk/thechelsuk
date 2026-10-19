@@ -27,14 +27,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Release - Lansdown Foundry @ thechelsuk - iPad and Mac app marketing site Version v1.0.0](https://thechels.uk/lansdown-foundry-thechelsuk-ipad-and-mac-app-marketing-site-release-2b0d6ebb1ba0) - 2026-10-19
+- [Release - Unsettled @ thechelsuk - iOS app marketing site Version v1.0.0](https://thechels.uk/unsettled-thechelsuk-ios-app-marketing-site-release-8c34d537b1e8) - 2026-10-19
+- [Release - Mltply @ thechelsuk - iOS app marketing site Version v1.0.0](https://thechels.uk/mltply-thechelsuk-ios-app-marketing-site-release-6fbc23b33b2d) - 2026-10-19
+- [Release - EngMan @ thechelsuk - iOS app marketing site Version v1.0.0](https://thechels.uk/engman-thechelsuk-ios-app-marketing-site-release-c252f4a253bb) - 2026-10-19
+- [Daily - Daily Rundown for 2026-10-19](https://thechels.uk/2026-10-19-daily-rundown) - 2026-10-19
 - [Daily - Daily Rundown for 2026-10-18](https://thechels.uk/2026-10-18-daily-rundown) - 2026-10-18
 - [Blog - Seven One-to-One Questions That Go Deeper Than "How's It Going?"](https://thechels.uk/one-to-one-questions-that-go-deeper) - 2026-10-18
 - [Linked - Drafts Adds a Chat Console and Better Dictation](https://thechels.uk/drafts-adds-a-chat-console-and-better-dictation) - 2026-10-18
-- [Release - NNW Theme Bundle Version v3.2.1](https://thechels.uk/nnw-theme-bundle-release-226e55970c5b) - 2026-10-17
-- [Release - NNW Theme Bundle Version v3.1.1](https://thechels.uk/nnw-theme-bundle-release-902ec6f61e2b) - 2026-10-17
-- [Daily - Daily Rundown for 2026-10-17](https://thechels.uk/2026-10-17-daily-rundown) - 2026-10-17
-- [Linked - Reddit to Remove RSS](https://thechels.uk/reddit-to-remove-rss) - 2026-10-16
-- [Daily - Daily Rundown for 2026-10-16](https://thechels.uk/2026-10-16-daily-rundown) - 2026-10-16
 <!-- blog ends -->
 
 ## Offers
