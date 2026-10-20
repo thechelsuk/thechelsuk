@@ -30,8 +30,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Tomoz - marketing site](https://tomoz.thechels.uk)
 - [Toolkit - website](https://tools.thechels.uk)
 - [Unsettled - marketing site](https://unsettled.thechels.uk)
-- 
-
+  
 ## Build info
 
 ![Daily Build](https://github.com/thechelsuk/thechelsuk/workflows/Daily%20Build/badge.svg)
