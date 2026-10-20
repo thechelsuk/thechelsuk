@@ -28,6 +28,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Opiuml - marketing site](https://opiuml.thechels.uk)
 - [Search - website](https://search.thechels.uk)
 - [ShortKeys - marketing site](https://shortkeys.thechels.uk)
+- [Shop - Gumroad store](https://shop.thechels.uk)
 - [Tomoz - marketing site](https://tomoz.thechels.uk)
 - [Toolkit - website](https://tools.thechels.uk)
 - [Unsettled - marketing site](https://unsettled.thechels.uk)
