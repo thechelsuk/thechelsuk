@@ -43,6 +43,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-10-21](https://thechels.uk/2026-10-21-daily-rundown) - 2026-10-21
 - [Release - NNW Theme Bundle Version v3.5.1](https://thechels.uk/nnw-theme-bundle-release-8a29f93cfb2f) - 2026-10-20
 - [Daily - Daily Rundown for 2026-10-20](https://thechels.uk/2026-10-20-daily-rundown) - 2026-10-20
 - [Release - Lansdown Foundry @ thechelsuk - iPad and Mac app marketing site Version v1.0.0](https://thechels.uk/lansdown-foundry-thechelsuk-ipad-and-mac-app-marketing-site-release-2b0d6ebb1ba0) - 2026-10-19
@@ -50,7 +51,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Release - Mltply @ thechelsuk - iOS app marketing site Version v1.0.0](https://thechels.uk/mltply-thechelsuk-ios-app-marketing-site-release-6fbc23b33b2d) - 2026-10-19
 - [Release - EngMan @ thechelsuk - iOS app marketing site Version v1.0.0](https://thechels.uk/engman-thechelsuk-ios-app-marketing-site-release-c252f4a253bb) - 2026-10-19
 - [Daily - Daily Rundown for 2026-10-19](https://thechels.uk/2026-10-19-daily-rundown) - 2026-10-19
-- [Video - Launched: Lansdown Foundry - draw and design fonts](https://thechels.uk/video-launched-lansdown-foundry-draw-and-design-fonts-bf90f376) - 2026-10-19
 <!-- blog ends -->
 
 ## Offers
