@@ -44,13 +44,13 @@ Has a track record of increasing team morale and motivation through a holistic p
 
 <!-- blog starts -->
 - [Daily - Daily Rundown for 2026-10-24](https://thechels.uk/2026-10-24-daily-rundown) - 2026-10-24
+- [Video - Opiuml: podcast player out now](https://thechels.uk/video-opiuml-podcast-player-out-now-8ccc3751) - 2026-10-24
 - [Daily - Daily Rundown for 2026-10-23](https://thechels.uk/2026-10-23-daily-rundown) - 2026-10-23
 - [Daily - Daily Rundown for 2026-10-22](https://thechels.uk/2026-10-22-daily-rundown) - 2026-10-22
 - [Daily - Daily Rundown for 2026-10-21](https://thechels.uk/2026-10-21-daily-rundown) - 2026-10-21
 - [Release - NNW Theme Bundle Version v3.5.1](https://thechels.uk/nnw-theme-bundle-release-8a29f93cfb2f) - 2026-10-20
 - [Daily - Daily Rundown for 2026-10-20](https://thechels.uk/2026-10-20-daily-rundown) - 2026-10-20
 - [Release - Lansdown Foundry @ thechelsuk - iPad and Mac app marketing site Version v1.0.0](https://thechels.uk/lansdown-foundry-thechelsuk-ipad-and-mac-app-marketing-site-release-2b0d6ebb1ba0) - 2026-10-19
-- [Release - Unsettled @ thechelsuk - iOS app marketing site Version v1.0.0](https://thechels.uk/unsettled-thechelsuk-ios-app-marketing-site-release-8c34d537b1e8) - 2026-10-19
 <!-- blog ends -->
 
 ## Offers
