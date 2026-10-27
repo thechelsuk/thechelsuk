@@ -43,6 +43,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-10-27](https://thechels.uk/2026-10-27-daily-rundown) - 2026-10-27
 - [Daily - Daily Rundown for 2026-10-26](https://thechels.uk/2026-10-26-daily-rundown) - 2026-10-26
 - [Blog - Unsettled - A Spy Puzzle Game for iOS](https://thechels.uk/morse-code) - 2026-10-25
 - [Daily - Daily Rundown for 2026-10-25](https://thechels.uk/2026-10-25-daily-rundown) - 2026-10-25
@@ -50,7 +51,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Video - Opiuml: podcast player out now](https://thechels.uk/video-opiuml-podcast-player-out-now-8ccc3751) - 2026-10-24
 - [Daily - Daily Rundown for 2026-10-23](https://thechels.uk/2026-10-23-daily-rundown) - 2026-10-23
 - [Daily - Daily Rundown for 2026-10-22](https://thechels.uk/2026-10-22-daily-rundown) - 2026-10-22
-- [Daily - Daily Rundown for 2026-10-21](https://thechels.uk/2026-10-21-daily-rundown) - 2026-10-21
 <!-- blog ends -->
 
 ## Offers
