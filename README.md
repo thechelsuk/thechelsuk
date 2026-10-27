@@ -1,4 +1,4 @@
-![banner.png](/banner.png)
+![banner.png](https://github.com/thechelsuk/thechelsuk/blob/main/banner.png?raw=true)
 
 
 # Hello, hello
