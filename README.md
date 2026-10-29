@@ -45,14 +45,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Blog - WeakNotes 2026-10-29](https://thechels.uk/weaknotes-2026-10-29) - 2026-10-29
 - [Daily - Daily Rundown for 2026-10-29](https://thechels.uk/2026-10-29-daily-rundown) - 2026-10-29
+- [Film Review - The Nun](https://thechels.uk/films) - 2026-10-29
 - [Daily - Daily Rundown for 2026-10-28](https://thechels.uk/2026-10-28-daily-rundown) - 2026-10-28
 - [Release - Homebridge (YSA2) Yale Alarm Version v2.5.2](https://thechels.uk/homebridge-ysa2-yale-alarm-release-53540eafb229) - 2026-10-27
 - [Daily - Daily Rundown for 2026-10-27](https://thechels.uk/2026-10-27-daily-rundown) - 2026-10-27
 - [Daily - Daily Rundown for 2026-10-26](https://thechels.uk/2026-10-26-daily-rundown) - 2026-10-26
 - [Blog - Unsettled - A Spy Puzzle Game for iOS](https://thechels.uk/morse-code) - 2026-10-25
-- [Daily - Daily Rundown for 2026-10-25](https://thechels.uk/2026-10-25-daily-rundown) - 2026-10-25
-- [Daily - Daily Rundown for 2026-10-24](https://thechels.uk/2026-10-24-daily-rundown) - 2026-10-24
 <!-- blog ends -->
 
 ## Offers
