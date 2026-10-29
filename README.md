@@ -27,11 +27,13 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [NetNewsWire Themes - website](https://themes-nnw.thechels.uk)
 - [Opiuml - marketing site](https://opiuml.thechels.uk)
 - [Search - website](https://search.thechels.uk)
+- [SecOps - website](https://secops.thechels.uk)
 - [ShortKeys - marketing site](https://shortkeys.thechels.uk)
 - [Shop - Gumroad store](https://shop.thechels.uk)
 - [Tomoz - marketing site](https://tomoz.thechels.uk)
 - [Toolkit - website](https://tools.thechels.uk)
 - [Unsettled - marketing site](https://unsettled.thechels.uk)
+  
   
 ## Build info
 
