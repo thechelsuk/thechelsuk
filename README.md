@@ -49,10 +49,10 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Linked - Castro Update Confirms Sale](https://thechels.uk/castro-update-confirms-sale) - 2026-10-30
 - [Daily - Daily Rundown for 2026-10-30](https://thechels.uk/2026-10-30-daily-rundown) - 2026-10-30
 - [Film Review - The Nun II](https://thechels.uk/films) - 2026-10-30
+- [Mixtape - Monthly Mixtape - Oct 2026](https://thechels.uk/music-mixtape-oct-2026) - 2026-10-30
 - [Blog - WeakNotes 2026-10-29](https://thechels.uk/weaknotes-2026-10-29) - 2026-10-29
 - [Daily - Daily Rundown for 2026-10-29](https://thechels.uk/2026-10-29-daily-rundown) - 2026-10-29
 - [Film Review - The Nun](https://thechels.uk/films) - 2026-10-29
-- [Daily - Daily Rundown for 2026-10-28](https://thechels.uk/2026-10-28-daily-rundown) - 2026-10-28
 <!-- blog ends -->
 
 ## Offers
