@@ -45,6 +45,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-11-02](https://thechels.uk/2026-11-02-daily-rundown) - 2026-11-02
 - [Daily - Daily Rundown for 2026-11-01](https://thechels.uk/2026-11-01-daily-rundown) - 2026-11-01
 - [Daily - Daily Rundown for 2026-10-31](https://thechels.uk/2026-10-31-daily-rundown) - 2026-10-31
 - [Linked - Castro Update Confirms Sale](https://thechels.uk/castro-update-confirms-sale) - 2026-10-30
@@ -52,7 +53,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Film Review - The Nun II](https://thechels.uk/films) - 2026-10-30
 - [Mixtape - Monthly Mixtape - Oct 2026](https://thechels.uk/music-mixtape-oct-2026) - 2026-10-30
 - [Blog - WeakNotes 2026-10-29](https://thechels.uk/weaknotes-2026-10-29) - 2026-10-29
-- [Daily - Daily Rundown for 2026-10-29](https://thechels.uk/2026-10-29-daily-rundown) - 2026-10-29
 <!-- blog ends -->
 
 ## Offers
