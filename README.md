@@ -46,14 +46,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Film Review - Nosferatu](https://thechels.uk/films) - 2026-11-13
+- [Release - Homebridge (YSA2) Yale Alarm Version v2.5.5](https://thechels.uk/homebridge-ysa2-yale-alarm-release-c8da47749920) - 2026-11-12
+- [Release - NNW Theme Bundle Version v3.6.1](https://thechels.uk/nnw-theme-bundle-release-a761f6e9dade) - 2026-11-12
 - [Daily - Daily Rundown for 2026-11-12](https://thechels.uk/2026-11-12-daily-rundown) - 2026-11-12
+- [Film Review - Wonder Woman 1984](https://thechels.uk/films) - 2026-11-12
+- [Film Review - Wonder Woman](https://thechels.uk/films) - 2026-11-12
 - [Video - 20 Minute Rest Timer for Pacing (ME/CFS, Long Covid): Dark Screen, Brown Noise](https://thechels.uk/video-20-minute-rest-timer-for-pacing-mecfs-long-covid-dark-screen-brown-noise-fae12178) - 2026-11-12
 - [Video - Blog from your phone: Markdown straight to GitHub](https://thechels.uk/video-blog-from-your-phone-markdown-straight-to-github-fabb6f28) - 2026-11-12
-- [Video - Too exhausted to track your symptoms? A few taps is enough](https://thechels.uk/video-too-exhausted-to-track-your-symptoms-a-few-taps-is-enough-9c8b34fd) - 2026-11-11
-- [Video - Your 1:1s have gone stale. 200 better questions](https://thechels.uk/video-your-11s-have-gone-stale-200-better-questions-25c540ca) - 2026-11-11
-- [Film Review - In the Heart of the Sea](https://thechels.uk/films) - 2026-11-10
-- [Release - Cheltenham Open Data Version 3.1.3](https://thechels.uk/cheltenham-open-data-release-3d90b5f449b6) - 2026-11-09
-- [Daily - Daily Rundown for 2026-11-08](https://thechels.uk/2026-11-08-daily-rundown) - 2026-11-08
 <!-- blog ends -->
 
 ## Offers
