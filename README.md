@@ -47,13 +47,13 @@ Has a track record of increasing team morale and motivation through a holistic p
 
 <!-- blog starts -->
 - [Film Review - Nosferatu](https://thechels.uk/films) - 2026-11-13
+- [Video - 55 Minute Rest Timer for Pacing (ME/CFS, Long Covid): Dark Screen, Pink Noise](https://thechels.uk/video-55-minute-rest-timer-for-pacing-mecfs-long-covid-dark-screen-pink-noise-1d0fa748) - 2026-11-13
 - [Release - Homebridge (YSA2) Yale Alarm Version v2.5.5](https://thechels.uk/homebridge-ysa2-yale-alarm-release-c8da47749920) - 2026-11-12
 - [Release - NNW Theme Bundle Version v3.6.1](https://thechels.uk/nnw-theme-bundle-release-a761f6e9dade) - 2026-11-12
 - [Daily - Daily Rundown for 2026-11-12](https://thechels.uk/2026-11-12-daily-rundown) - 2026-11-12
 - [Film Review - Wonder Woman 1984](https://thechels.uk/films) - 2026-11-12
 - [Film Review - Wonder Woman](https://thechels.uk/films) - 2026-11-12
 - [Video - 20 Minute Rest Timer for Pacing (ME/CFS, Long Covid): Dark Screen, Brown Noise](https://thechels.uk/video-20-minute-rest-timer-for-pacing-mecfs-long-covid-dark-screen-brown-noise-fae12178) - 2026-11-12
-- [Video - Blog from your phone: Markdown straight to GitHub](https://thechels.uk/video-blog-from-your-phone-markdown-straight-to-github-fabb6f28) - 2026-11-12
 <!-- blog ends -->
 
 ## Offers
