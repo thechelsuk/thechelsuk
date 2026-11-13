@@ -46,14 +46,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-11-13](https://thechels.uk/2026-11-13-daily-rundown) - 2026-11-13
 - [Film Review - Nosferatu](https://thechels.uk/films) - 2026-11-13
 - [Video - 55 Minute Rest Timer for Pacing (ME/CFS, Long Covid): Dark Screen, Pink Noise](https://thechels.uk/video-55-minute-rest-timer-for-pacing-mecfs-long-covid-dark-screen-pink-noise-1d0fa748) - 2026-11-13
+- [Video - Times tables practice your child will actually do](https://thechels.uk/video-times-tables-practice-your-child-will-actually-do-ede42777) - 2026-11-13
 - [Release - Homebridge (YSA2) Yale Alarm Version v2.5.5](https://thechels.uk/homebridge-ysa2-yale-alarm-release-c8da47749920) - 2026-11-12
 - [Release - NNW Theme Bundle Version v3.6.1](https://thechels.uk/nnw-theme-bundle-release-a761f6e9dade) - 2026-11-12
 - [Daily - Daily Rundown for 2026-11-12](https://thechels.uk/2026-11-12-daily-rundown) - 2026-11-12
 - [Film Review - Wonder Woman 1984](https://thechels.uk/films) - 2026-11-12
-- [Film Review - Wonder Woman](https://thechels.uk/films) - 2026-11-12
-- [Video - 20 Minute Rest Timer for Pacing (ME/CFS, Long Covid): Dark Screen, Brown Noise](https://thechels.uk/video-20-minute-rest-timer-for-pacing-mecfs-long-covid-dark-screen-brown-noise-fae12178) - 2026-11-12
 <!-- blog ends -->
 
 ## Offers
