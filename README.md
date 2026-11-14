@@ -49,12 +49,12 @@ Has a track record of increasing team morale and motivation through a holistic p
 <!-- blog starts -->
 - [Daily - Daily Rundown for 2026-11-14](https://thechels.uk/2026-11-14-daily-rundown) - 2026-11-14
 - [Video - 55 Minute Rest Timer for Pacing (ME/CFS, Long Covid): Dark Screen, Brown Noise](https://thechels.uk/video-55-minute-rest-timer-for-pacing-mecfs-long-covid-dark-screen-brown-noise-a9c3d865) - 2026-11-14
+- [Video - Stop typing the same thing every day on iPhone](https://thechels.uk/video-stop-typing-the-same-thing-every-day-on-iphone-4a38da62) - 2026-11-14
 - [Daily - Daily Rundown for 2026-11-13](https://thechels.uk/2026-11-13-daily-rundown) - 2026-11-13
 - [Film Review - Nosferatu](https://thechels.uk/films) - 2026-11-13
 - [Video - 55 Minute Rest Timer for Pacing (ME/CFS, Long Covid): Dark Screen, Pink Noise](https://thechels.uk/video-55-minute-rest-timer-for-pacing-mecfs-long-covid-dark-screen-pink-noise-1d0fa748) - 2026-11-13
 - [Video - Times tables practice your child will actually do](https://thechels.uk/video-times-tables-practice-your-child-will-actually-do-ede42777) - 2026-11-13
 - [Release - Homebridge (YSA2) Yale Alarm Version v2.5.5](https://thechels.uk/homebridge-ysa2-yale-alarm-release-c8da47749920) - 2026-11-12
-- [Release - NNW Theme Bundle Version v3.6.1](https://thechels.uk/nnw-theme-bundle-release-a761f6e9dade) - 2026-11-12
 <!-- blog ends -->
 
 ## Offers
