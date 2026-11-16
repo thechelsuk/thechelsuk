@@ -47,6 +47,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Blog - Why a 1Password `.env` Mount Made VS Code Hang](https://thechels.uk/1password-env-hang-in-vscode) - 2026-11-15
 - [Release - Template - app marketing site for GitHub Pages Version 1.0.0](https://thechels.uk/template-app-marketing-site-for-github-pages-release-7b4ab31d6711) - 2026-11-15
 - [Release - Template - Jekyll site for GitHub Pages Version 1.0.0](https://thechels.uk/template-jekyll-site-for-github-pages-release-531204703c25) - 2026-11-15
 - [Daily - Daily Rundown for 2026-11-15](https://thechels.uk/2026-11-15-daily-rundown) - 2026-11-15
@@ -54,7 +55,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Video - This phone looks ordinary. Most people can't reach chapter 2](https://thechels.uk/video-this-phone-looks-ordinary-most-people-cant-reach-chapter-2-b6cc6aee) - 2026-11-15
 - [Daily - Daily Rundown for 2026-11-14](https://thechels.uk/2026-11-14-daily-rundown) - 2026-11-14
 - [Video - 55 Minute Rest Timer for Pacing (ME/CFS, Long Covid): Dark Screen, Brown Noise](https://thechels.uk/video-55-minute-rest-timer-for-pacing-mecfs-long-covid-dark-screen-brown-noise-a9c3d865) - 2026-11-14
-- [Video - Stop typing the same thing every day on iPhone](https://thechels.uk/video-stop-typing-the-same-thing-every-day-on-iphone-4a38da62) - 2026-11-14
 <!-- blog ends -->
 
 ## Offers
