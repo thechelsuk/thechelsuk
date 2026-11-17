@@ -49,12 +49,12 @@ Has a track record of increasing team morale and motivation through a holistic p
 <!-- blog starts -->
 - [Daily - Daily Rundown for 2026-11-17](https://thechels.uk/2026-11-17-daily-rundown) - 2026-11-17
 - [Micro - Global allocation of money](https://thechels.uk/global-allocation-of-money) - 2026-11-17
+- [Video - 214 unplayed podcast episodes? Try an Inbox instead](https://thechels.uk/video-214-unplayed-podcast-episodes-try-an-inbox-instead-218cd8f2) - 2026-11-17
+- [Video - Bored of games that tell you what to do?](https://thechels.uk/video-bored-of-games-that-tell-you-what-to-do-9808c60a) - 2026-11-17
+- [Video - Could you pass as a spy?](https://thechels.uk/video-could-you-pass-as-a-spy-eeb24ea3) - 2026-11-17
 - [Video - This phone looks ordinary. It isn't](https://thechels.uk/video-this-phone-looks-ordinary-it-isnt-c7f38ab8) - 2026-11-17
 - [Daily - Daily Rundown for 2026-11-16](https://thechels.uk/2026-11-16-daily-rundown) - 2026-11-16
 - [Video - 30 Minute Rest Timer for Pacing (ME/CFS, Long Covid): Dark Screen, Brown Noise](https://thechels.uk/video-30-minute-rest-timer-for-pacing-mecfs-long-covid-dark-screen-brown-noise-fe785f74) - 2026-11-16
-- [Video - See only tomorrow: one screen for events and reminders](https://thechels.uk/video-see-only-tomorrow-one-screen-for-events-and-reminders-0bd30449) - 2026-11-16
-- [Blog - Why a 1Password `.env` Mount Made VS Code Hang](https://thechels.uk/1password-env-hang-in-vscode) - 2026-11-15
-- [Release - Template - app marketing site for GitHub Pages Version 1.0.0](https://thechels.uk/template-app-marketing-site-for-github-pages-release-7b4ab31d6711) - 2026-11-15
 <!-- blog ends -->
 
 ## Offers
