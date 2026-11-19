@@ -22,6 +22,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [BOINC @ TheChels - website](https://boinc.thechels.uk)
 - [CFC News lofi - website & feed](https://cfcnews.thechels.uk)
 - [EngMan - marketing site](https://engman.thechels.uk)
+- [Embed - Videos for NNW](https://embed.thechels.uk)
 - [Lansdown Foundry - marketing site](https://lansdownfoundry.thechels.uk)
 - [Links - link-in-bio @ thechelsuk](https://links.thechels.uk)
 - [Mltply - marketing site](https://mltply.thechels.uk)
