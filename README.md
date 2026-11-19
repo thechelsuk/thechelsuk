@@ -48,14 +48,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-11-19](https://thechels.uk/2026-11-19-daily-rundown) - 2026-11-19
 - [Mixtape - Monthly Mixtape - Nov 2026](https://thechels.uk/music-mixtape-nov-2026) - 2026-11-19
+- [Release - Mltply Version v202701.5](https://thechels.uk/mltply-release-b05acc7b91cc) - 2026-11-19
+- [Video - 10 pm. Do you know what's on tomorrow?](https://thechels.uk/video-10-pm-do-you-know-whats-on-tomorrow-9813adf6) - 2026-11-19
+- [Video - Times tables without the tears](https://thechels.uk/video-times-tables-without-the-tears-83b0cdb4) - 2026-11-19
 - [Daily - Daily Rundown for 2026-11-18](https://thechels.uk/2026-11-18-daily-rundown) - 2026-11-18
 - [Video - 30 Minute Rest Timer for Pacing (ME/CFS, Long Covid): Dark Screen, Pink Noise](https://thechels.uk/video-30-minute-rest-timer-for-pacing-mecfs-long-covid-dark-screen-pink-noise-ab002b63) - 2026-11-18
 - [Video - Do they really know 7 × 8?](https://thechels.uk/video-do-they-really-know-7-8-997acee0) - 2026-11-18
-- [Video - On a screen anyway? Make it times tables](https://thechels.uk/video-on-a-screen-anyway-make-it-times-tables-7d682dfa) - 2026-11-18
-- [Daily - Daily Rundown for 2026-11-17](https://thechels.uk/2026-11-17-daily-rundown) - 2026-11-17
-- [Micro - Global allocation of money](https://thechels.uk/global-allocation-of-money) - 2026-11-17
-- [Video - 214 unplayed podcast episodes? Try an Inbox instead](https://thechels.uk/video-214-unplayed-podcast-episodes-try-an-inbox-instead-218cd8f2) - 2026-11-17
 <!-- blog ends -->
 
 ## Offers
