@@ -5,6 +5,10 @@ on:
   schedule:
   - cron: "35 22 28 8 *"
 
+permissions:
+  contents: read
+  issues: write
+
 jobs:
   create_issue:
     name: Create scheduled issue

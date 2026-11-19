@@ -1,6 +1,9 @@
 name: Linter
 # https://help.github.com/en/articles/workflow-syntax-for-github-actions
 on: [pull_request, workflow_dispatch]
+permissions:
+  contents: read
+  statuses: write
 jobs:
   build:
     name: Linter

@@ -7,6 +7,10 @@ on:
   schedule:
     - cron: '0 0 1 * *'
 
+permissions:
+  contents: read
+  issues: write
+
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
