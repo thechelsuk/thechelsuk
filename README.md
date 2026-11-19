@@ -48,6 +48,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Mixtape - Monthly Mixtape - Nov 2026](https://thechels.uk/music-mixtape-nov-2026) - 2026-11-19
 - [Daily - Daily Rundown for 2026-11-18](https://thechels.uk/2026-11-18-daily-rundown) - 2026-11-18
 - [Video - 30 Minute Rest Timer for Pacing (ME/CFS, Long Covid): Dark Screen, Pink Noise](https://thechels.uk/video-30-minute-rest-timer-for-pacing-mecfs-long-covid-dark-screen-pink-noise-ab002b63) - 2026-11-18
 - [Video - Do they really know 7 × 8?](https://thechels.uk/video-do-they-really-know-7-8-997acee0) - 2026-11-18
@@ -55,7 +56,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Daily - Daily Rundown for 2026-11-17](https://thechels.uk/2026-11-17-daily-rundown) - 2026-11-17
 - [Micro - Global allocation of money](https://thechels.uk/global-allocation-of-money) - 2026-11-17
 - [Video - 214 unplayed podcast episodes? Try an Inbox instead](https://thechels.uk/video-214-unplayed-podcast-episodes-try-an-inbox-instead-218cd8f2) - 2026-11-17
-- [Video - Bored of games that tell you what to do?](https://thechels.uk/video-bored-of-games-that-tell-you-what-to-do-9808c60a) - 2026-11-17
 <!-- blog ends -->
 
 ## Offers
