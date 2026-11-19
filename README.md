@@ -50,12 +50,12 @@ Has a track record of increasing team morale and motivation through a holistic p
 <!-- blog starts -->
 - [Daily - Daily Rundown for 2026-11-18](https://thechels.uk/2026-11-18-daily-rundown) - 2026-11-18
 - [Video - 30 Minute Rest Timer for Pacing (ME/CFS, Long Covid): Dark Screen, Pink Noise](https://thechels.uk/video-30-minute-rest-timer-for-pacing-mecfs-long-covid-dark-screen-pink-noise-ab002b63) - 2026-11-18
+- [Video - Do they really know 7 × 8?](https://thechels.uk/video-do-they-really-know-7-8-997acee0) - 2026-11-18
+- [Video - On a screen anyway? Make it times tables](https://thechels.uk/video-on-a-screen-anyway-make-it-times-tables-7d682dfa) - 2026-11-18
 - [Daily - Daily Rundown for 2026-11-17](https://thechels.uk/2026-11-17-daily-rundown) - 2026-11-17
 - [Micro - Global allocation of money](https://thechels.uk/global-allocation-of-money) - 2026-11-17
 - [Video - 214 unplayed podcast episodes? Try an Inbox instead](https://thechels.uk/video-214-unplayed-podcast-episodes-try-an-inbox-instead-218cd8f2) - 2026-11-17
 - [Video - Bored of games that tell you what to do?](https://thechels.uk/video-bored-of-games-that-tell-you-what-to-do-9808c60a) - 2026-11-17
-- [Video - Could you pass as a spy?](https://thechels.uk/video-could-you-pass-as-a-spy-eeb24ea3) - 2026-11-17
-- [Video - This phone looks ordinary. It isn't](https://thechels.uk/video-this-phone-looks-ordinary-it-isnt-c7f38ab8) - 2026-11-17
 <!-- blog ends -->
 
 ## Offers
