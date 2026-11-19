@@ -49,13 +49,13 @@ Has a track record of increasing team morale and motivation through a holistic p
 
 <!-- blog starts -->
 - [Daily - Daily Rundown for 2026-11-19](https://thechels.uk/2026-11-19-daily-rundown) - 2026-11-19
+- [Film - Film Club Friday for November-2026](https://thechels.uk/film-monthly-november-2026) - 2026-11-19
+- [Release - Lansdown Foundry Version v202701.3](https://thechels.uk/lansdown-foundry-release-2d40045d3341) - 2026-11-19
 - [Mixtape - Monthly Mixtape - Nov 2026](https://thechels.uk/music-mixtape-nov-2026) - 2026-11-19
 - [Release - Mltply Version v202701.5](https://thechels.uk/mltply-release-b05acc7b91cc) - 2026-11-19
-- [Video - 10 pm. Do you know what's on tomorrow?](https://thechels.uk/video-10-pm-do-you-know-whats-on-tomorrow-9813adf6) - 2026-11-19
-- [Video - Times tables without the tears](https://thechels.uk/video-times-tables-without-the-tears-83b0cdb4) - 2026-11-19
-- [Daily - Daily Rundown for 2026-11-18](https://thechels.uk/2026-11-18-daily-rundown) - 2026-11-18
-- [Video - 30 Minute Rest Timer for Pacing (ME/CFS, Long Covid): Dark Screen, Pink Noise](https://thechels.uk/video-30-minute-rest-timer-for-pacing-mecfs-long-covid-dark-screen-pink-noise-ab002b63) - 2026-11-18
-- [Video - Do they really know 7 × 8?](https://thechels.uk/video-do-they-really-know-7-8-997acee0) - 2026-11-18
+- [Release - Nuchronic Version v202701.4](https://thechels.uk/nuchronic-release-d40703d423d7) - 2026-11-19
+- [Release - Unsettled Version v202701.5](https://thechels.uk/unsettled-release-a1c510c690f6) - 2026-11-19
+- [Release - ShortKeys Version v202701.3](https://thechels.uk/shortkeys-release-575ad9b8577d) - 2026-11-19
 <!-- blog ends -->
 
 ## Offers
