@@ -48,14 +48,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-11-20](https://thechels.uk/2026-11-20-daily-rundown) - 2026-11-20
+- [Blog - OPMLMan App Launched](https://thechels.uk/opmlman-app-launched) - 2026-11-20
+- [Video - Pasting the same bug report template again?](https://thechels.uk/video-pasting-the-same-bug-report-template-again-7db23ff6) - 2026-11-20
 - [Linked - How I Build 800 Pages of Cheltenham Open Data](https://thechels.uk/how-i-build-cheltenham-open-data) - 2026-11-19
 - [Release - Hiyd - Chrome Extension for Linked/Quote capture Version v2.0.2](https://thechels.uk/hiyd-chrome-extension-for-linked-quote-capture-release-53a779cd9595) - 2026-11-19
 - [Release - RedemptionX - Reddit content deletion tool Version v1.2.4](https://thechels.uk/redemptionx-reddit-content-deletion-tool-release-dcc38a93e9aa) - 2026-11-19
 - [Daily - Daily Rundown for 2026-11-19](https://thechels.uk/2026-11-19-daily-rundown) - 2026-11-19
 - [Film - Film Club Friday for November-2026](https://thechels.uk/film-monthly-november-2026) - 2026-11-19
-- [Release - Lansdown Foundry Version v202701.3](https://thechels.uk/lansdown-foundry-release-2d40045d3341) - 2026-11-19
-- [Mixtape - Monthly Mixtape - Nov 2026](https://thechels.uk/music-mixtape-nov-2026) - 2026-11-19
-- [Release - Mltply Version v202701.5](https://thechels.uk/mltply-release-b05acc7b91cc) - 2026-11-19
 <!-- blog ends -->
 
 ## Offers
