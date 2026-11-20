@@ -49,13 +49,13 @@ Has a track record of increasing team morale and motivation through a holistic p
 
 <!-- blog starts -->
 - [Linked - How I Build 800 Pages of Cheltenham Open Data](https://thechels.uk/how-i-build-cheltenham-open-data) - 2026-11-19
+- [Release - Hiyd - Chrome Extension for Linked/Quote capture Version v2.0.2](https://thechels.uk/hiyd-chrome-extension-for-linked-quote-capture-release-53a779cd9595) - 2026-11-19
+- [Release - RedemptionX - Reddit content deletion tool Version v1.2.4](https://thechels.uk/redemptionx-reddit-content-deletion-tool-release-dcc38a93e9aa) - 2026-11-19
 - [Daily - Daily Rundown for 2026-11-19](https://thechels.uk/2026-11-19-daily-rundown) - 2026-11-19
 - [Film - Film Club Friday for November-2026](https://thechels.uk/film-monthly-november-2026) - 2026-11-19
 - [Release - Lansdown Foundry Version v202701.3](https://thechels.uk/lansdown-foundry-release-2d40045d3341) - 2026-11-19
 - [Mixtape - Monthly Mixtape - Nov 2026](https://thechels.uk/music-mixtape-nov-2026) - 2026-11-19
 - [Release - Mltply Version v202701.5](https://thechels.uk/mltply-release-b05acc7b91cc) - 2026-11-19
-- [Release - Nuchronic Version v202701.4](https://thechels.uk/nuchronic-release-d40703d423d7) - 2026-11-19
-- [Release - Unsettled Version v202701.5](https://thechels.uk/unsettled-release-a1c510c690f6) - 2026-11-19
 <!-- blog ends -->
 
 ## Offers
