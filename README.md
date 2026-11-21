@@ -48,14 +48,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Release - SecOpsNews Version 1.1.0](https://thechels.uk/secopsnews-release-04857ad440a9) - 2026-11-20
+- [Release - SecOpsNews - Repo security audit (python) Version v1.0.0](https://thechels.uk/secopsnews-repo-security-audit-python-release-5d8303a7b7c4) - 2026-11-20
+- [Release - SecOpsNews - SBOM script (python) Version v1.1.0](https://thechels.uk/secopsnews-sbom-script-python-release-805ca0c8b2eb) - 2026-11-20
+- [Release - SecOpsNews - Template - feed to issues Version 1.0.0](https://thechels.uk/secopsnews-template-feed-to-issues-release-aaa86e7489d6) - 2026-11-20
 - [Daily - Daily Rundown for 2026-11-20](https://thechels.uk/2026-11-20-daily-rundown) - 2026-11-20
 - [Blog - OPMLMan App Launched](https://thechels.uk/opmlman-app-launched) - 2026-11-20
 - [Video - Pasting the same bug report template again?](https://thechels.uk/video-pasting-the-same-bug-report-template-again-7db23ff6) - 2026-11-20
 - [Video - Still typing your address by hand on iPhone?](https://thechels.uk/video-still-typing-your-address-by-hand-on-iphone-18458748) - 2026-11-20
-- [Video - Writing the same 1:1 agenda every week?](https://thechels.uk/video-writing-the-same-11-agenda-every-week-5ac53d7a) - 2026-11-20
-- [Linked - How I Build 800 Pages of Cheltenham Open Data](https://thechels.uk/how-i-build-cheltenham-open-data) - 2026-11-19
-- [Release - Hiyd - Chrome Extension for Linked/Quote capture Version v2.0.2](https://thechels.uk/hiyd-chrome-extension-for-linked-quote-capture-release-53a779cd9595) - 2026-11-19
-- [Release - RedemptionX - Reddit content deletion tool Version v1.2.4](https://thechels.uk/redemptionx-reddit-content-deletion-tool-release-dcc38a93e9aa) - 2026-11-19
 <!-- blog ends -->
 
 ## Offers
