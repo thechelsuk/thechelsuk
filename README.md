@@ -68,5 +68,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Monzo Bank - Join and get a reward of £20, £50, or £100](https://join.monzo.com/c/k7stxxwv)
 - [Custard - Get £1 free - and easy to achieve get-paid-to tasks](https://joincustard.co.uk/ur/cHiJF-8aRjSpG02Q5Eu3EA==)
 - [Zopa - £10 free when you open a Biscuit bank account and unlock 7.1% interest saver](https://www.zopa.com/mgma?referralCode=0720b70ec6c99fa1cd00")
+- [Voy - Get £60 off a weight loss plan](https://www.joinvoy.com/r/U-HlXdaZ3bLO)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D11A82MI)
