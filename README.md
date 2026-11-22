@@ -48,6 +48,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Film Review - Mission: Impossible - Rogue Nation](https://thechels.uk/films) - 2026-11-22
 - [Micro - The first thing we do is kill all the analysts](https://thechels.uk/kill-all-the-analysts) - 2026-11-21
 - [Daily - Daily Rundown for 2026-11-21](https://thechels.uk/2026-11-21-daily-rundown) - 2026-11-21
 - [Video - 20-minute commute, 40-hour podcast backlog?](https://thechels.uk/video-20-minute-commute-40-hour-podcast-backlog-2150ea30) - 2026-11-21
@@ -55,7 +56,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Video - Keep the podcast, skip the episode](https://thechels.uk/video-keep-the-podcast-skip-the-episode-b3a43cc1) - 2026-11-21
 - [Release - SecOpsNews Version 1.1.0](https://thechels.uk/secopsnews-release-04857ad440a9) - 2026-11-20
 - [Release - SecOpsNews - Repo security audit (python) Version v1.0.0](https://thechels.uk/secopsnews-repo-security-audit-python-release-5d8303a7b7c4) - 2026-11-20
-- [Release - SecOpsNews - SBOM script (python) Version v1.1.0](https://thechels.uk/secopsnews-sbom-script-python-release-805ca0c8b2eb) - 2026-11-20
 <!-- blog ends -->
 
 ## Offers
