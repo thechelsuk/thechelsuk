@@ -48,6 +48,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-11-23](https://thechels.uk/2026-11-23-daily-rundown) - 2026-11-23
 - [Daily - Daily Rundown for 2026-11-22](https://thechels.uk/2026-11-22-daily-rundown) - 2026-11-22
 - [Film Review - Mission: Impossible - Rogue Nation](https://thechels.uk/films) - 2026-11-22
 - [Video - Crashed again after a good day? Spot the pattern](https://thechels.uk/video-crashed-again-after-a-good-day-spot-the-pattern-718c13fe) - 2026-11-22
@@ -55,7 +56,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Video - Too exhausted to track your symptoms? A few taps is enough](https://thechels.uk/video-too-exhausted-to-track-your-symptoms-a-few-taps-is-enough-71d6b518) - 2026-11-22
 - [Micro - The first thing we do is kill all the analysts](https://thechels.uk/kill-all-the-analysts) - 2026-11-21
 - [Daily - Daily Rundown for 2026-11-21](https://thechels.uk/2026-11-21-daily-rundown) - 2026-11-21
-- [Video - 20-minute commute, 40-hour podcast backlog?](https://thechels.uk/video-20-minute-commute-40-hour-podcast-backlog-2150ea30) - 2026-11-21
 <!-- blog ends -->
 
 ## Offers
