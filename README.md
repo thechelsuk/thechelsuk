@@ -48,14 +48,14 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Release - Hiyd - Chrome Extension for Linked/Quote capture Version v2.0.4](https://thechels.uk/hiyd-chrome-extension-for-linked-quote-capture-release-a40af819e564) - 2026-11-25
+- [Release - RedemptionX - Reddit content deletion tool Version v1.3.0](https://thechels.uk/redemptionx-reddit-content-deletion-tool-release-acaa6f9e1c19) - 2026-11-25
+- [Release - Homebridge (YSA2) Yale Alarm Version v2.5.6](https://thechels.uk/homebridge-ysa2-yale-alarm-release-d40f6e3450da) - 2026-11-25
 - [Daily - Daily Rundown for 2026-11-25](https://thechels.uk/2026-11-25-daily-rundown) - 2026-11-25
 - [Daily - Daily Rundown for 2026-11-24](https://thechels.uk/2026-11-24-daily-rundown) - 2026-11-24
 - [Film Review - Mission: Impossible - Fallout](https://thechels.uk/films) - 2026-11-24
 - [Daily - Daily Rundown for 2026-11-23](https://thechels.uk/2026-11-23-daily-rundown) - 2026-11-23
 - [Daily - Daily Rundown for 2026-11-22](https://thechels.uk/2026-11-22-daily-rundown) - 2026-11-22
-- [Film Review - Mission: Impossible - Rogue Nation](https://thechels.uk/films) - 2026-11-22
-- [Video - Crashed again after a good day? Spot the pattern](https://thechels.uk/video-crashed-again-after-a-good-day-spot-the-pattern-718c13fe) - 2026-11-22
-- [Video - “How have you been?” A year of ME/CFS on one screen](https://thechels.uk/video-how-have-you-been-a-year-of-mecfs-on-one-screen-de2d20cc) - 2026-11-22
 <!-- blog ends -->
 
 ## Offers
