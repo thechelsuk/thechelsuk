@@ -48,6 +48,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 > Theses posts get updated automatically via an action every two hours.
 
 <!-- blog starts -->
+- [Daily - Daily Rundown for 2026-11-28](https://thechels.uk/2026-11-28-daily-rundown) - 2026-11-28
 - [Daily - Daily Rundown for 2026-11-27](https://thechels.uk/2026-11-27-daily-rundown) - 2026-11-27
 - [Daily - Daily Rundown for 2026-11-26](https://thechels.uk/2026-11-26-daily-rundown) - 2026-11-26
 - [Release - Hiyd - Chrome Extension for Linked/Quote capture Version v2.0.4](https://thechels.uk/hiyd-chrome-extension-for-linked-quote-capture-release-a40af819e564) - 2026-11-25
@@ -55,7 +56,6 @@ Has a track record of increasing team morale and motivation through a holistic p
 - [Release - Homebridge (YSA2) Yale Alarm Version v2.5.6](https://thechels.uk/homebridge-ysa2-yale-alarm-release-d40f6e3450da) - 2026-11-25
 - [Daily - Daily Rundown for 2026-11-25](https://thechels.uk/2026-11-25-daily-rundown) - 2026-11-25
 - [Linked - Security incident at 1Password handled well](https://thechels.uk/update-on-a-security-incident-involving-1password-s-backend-systems-1password) - 2026-11-25
-- [Daily - Daily Rundown for 2026-11-24](https://thechels.uk/2026-11-24-daily-rundown) - 2026-11-24
 <!-- blog ends -->
 
 ## Offers
